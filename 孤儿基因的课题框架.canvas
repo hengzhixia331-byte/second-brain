@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"976fd4cea3293720","x":-680,"y":-240,"width":664,"height":560,"color":"1","type":"group","label":"孤儿基因的深度学习开发工具是核心"},
+		{"id":"85173a6b4a340fa1","type":"text","text":" 孤儿基因和植物抗逆到底有什么关系？","x":-318,"y":-220,"width":250,"height":60},
+		{"id":"8435852133d935e0","x":-318,"y":-120,"width":250,"height":60,"type":"text","text":"这种关系又是怎么产生的？"},
+		{"id":"f26e5e572db4af15","x":-660,"y":-120,"width":250,"height":65,"type":"text","text":"我觉得可以从演化的角度去挖掘"},
+		{"id":"5d375359148438e9","x":-318,"y":-20,"width":250,"height":179,"type":"text","text":"那我们能不能做一个工具，来快速筛选出一个物种的孤儿基因？就是给可能一个QTL然后找出可能存在的孤儿基因去做？"},
+		{"id":"8577742480d69330","x":-632,"y":40,"width":250,"height":94,"type":"text","text":"可以利用深度学习让AI来学习如何在一堆数据里发现或者找到有价值的孤儿基因"},
+		{"id":"357c14f3209cdcc3","x":-350,"y":200,"width":314,"height":100,"type":"text","text":"我们再根据这样一个工具找到玉米里面的十个孤儿基因左右"},
+		{"id":"b7f4cddf56099f87","x":-400,"y":367,"width":320,"height":133,"type":"text","text":"针对这十几个基因进行转化和功能验证，其实只需要证明它们能够在抗旱或抗逆中发挥作用，就证明了我这个工具的可行性"},
+		{"id":"38259ba5de663237","x":-20,"y":404,"width":250,"height":60,"type":"text","text":"利用OG3-OG5-OG10目前已经有的表型足以验证"}
+	],
+	"edges":[
+		{"id":"017c8bbca9ea6c7c","fromNode":"85173a6b4a340fa1","fromSide":"right","toNode":"8435852133d935e0","toSide":"right"},
+		{"id":"212e13827963fa9e","fromNode":"8435852133d935e0","fromSide":"right","toNode":"5d375359148438e9","toSide":"right"},
+		{"id":"7c1a59ff1bf54ae8","fromNode":"f26e5e572db4af15","fromSide":"right","toNode":"8435852133d935e0","toSide":"left"},
+		{"id":"2fe1bf7e1881aeb2","fromNode":"8577742480d69330","fromSide":"right","toNode":"5d375359148438e9","toSide":"left"},
+		{"id":"80b66f01c7e88050","fromNode":"5d375359148438e9","fromSide":"bottom","toNode":"357c14f3209cdcc3","toSide":"top"},
+		{"id":"b759120e2541c6b9","fromNode":"357c14f3209cdcc3","fromSide":"bottom","toNode":"b7f4cddf56099f87","toSide":"top"},
+		{"id":"3c4088ca26ef359c","fromNode":"b7f4cddf56099f87","fromSide":"right","toNode":"38259ba5de663237","toSide":"left"}
+	]
+}
