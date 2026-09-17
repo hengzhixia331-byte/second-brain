@@ -2,7 +2,7 @@
 title: "Trends in Plant Science | 当植物育种装上“生物学大脑”"
 tldr: "Trends in Plant Science | 当植物育种装上“生物学大脑” 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0MDI5NjM2NA==&mid=2247520889&idx=1&sn=1efb0c718bb14e3b43e836df2cdd2dec&chksm=e87976079601fa62553eae95edf3266f03f0f58977882935b"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

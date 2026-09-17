@@ -2,7 +2,7 @@
 title: "造成玉米秃尖的主要因素有哪些？如何应对？"
 tldr: "造成玉米秃尖的主要因素有哪些？如何应对？ 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzNDUyODUxMw==&mid=2247506933&idx=2&sn=e295ecf65fe5efc020eabd6735b359cb&chksm=e995c255b781ec2672be344ea4ee672b3e88184bf0c3acfa7d99c2e16ed6149c8f3e9"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, notes]
 source_type: notes

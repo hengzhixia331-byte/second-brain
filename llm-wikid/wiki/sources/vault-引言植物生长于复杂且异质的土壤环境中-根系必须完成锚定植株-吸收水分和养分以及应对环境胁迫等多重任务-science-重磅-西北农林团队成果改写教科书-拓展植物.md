@@ -2,7 +2,7 @@
 title: "Science 重磅！西北农林团队成果改写教科书！拓展植物向性理论框架，揭示一种此前未知的微生物–土壤–植物间通讯形式"
 tldr: "Science 重磅！西北农林团队成果改写教科书！拓展植物向性理论框架，揭示一种此前未知的微生物–土壤–植物间通讯形式 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg4MTgyNjU0NA==&mid=2247496464&idx=1&sn=cfbd3c1aeb5b8c395a070535b23e309a&chksm=ce5f319a67ceefb4ae3979ee2d16ba"
 date_created: 2026-07-13
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, bioinformatics_analysis, article]
 source_type: article

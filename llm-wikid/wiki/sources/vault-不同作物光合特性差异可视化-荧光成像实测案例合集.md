@@ -2,7 +2,7 @@
 title: "不同作物光合特性差异可视化：荧光成像实测案例合集"
 tldr: "不同作物光合特性差异可视化：荧光成像实测案例合集 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzUzNzczODE4Mg==&mid=2247614188&idx=1&sn=6a041c5ebbeec106bee7b19851f41c49&chksm=fbf766b3c430477f1acfde6b862326049dd46a2fdc697b0c5a3f7d88191ae30fc"
 date_created: 2026-07-13
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, plant_phenotyping_and_imaging, notes]
 source_type: notes

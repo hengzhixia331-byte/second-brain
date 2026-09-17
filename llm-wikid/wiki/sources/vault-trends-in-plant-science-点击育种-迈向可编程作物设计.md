@@ -2,7 +2,7 @@
 title: "Trends in Plant Science | 点击育种：迈向可编程作物设计"
 tldr: "Trends in Plant Science | 点击育种：迈向可编程作物设计 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546272&idx=1&sn=0e7ef5cbaed198457c271da3fd13fd81&chksm=e8bd0f3294e856cbbbe7bed1634bb9d13de0ff1c9009ec29a"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, ai_for_research, article]
 source_type: article

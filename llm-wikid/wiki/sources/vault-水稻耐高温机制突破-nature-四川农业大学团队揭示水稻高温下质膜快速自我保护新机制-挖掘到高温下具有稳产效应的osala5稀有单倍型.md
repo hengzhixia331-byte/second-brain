@@ -2,7 +2,7 @@
 title: "Nature | 四川农业大学团队揭示水稻高温下质膜快速自我保护新机制，挖掘到高温下具有稳产效应的OsALA5稀有单倍型"
 tldr: "Nature | 四川农业大学团队揭示水稻高温下质膜快速自我保护新机制，挖掘到高温下具有稳产效应的OsALA5稀有单倍型 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247636375&idx=1&sn=528ce7060c2b6c1ecdb69af65b8f08ae&chksm=e96d25a3e27687e713cb5493e64a1"
 date_created: 2026-07-02
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

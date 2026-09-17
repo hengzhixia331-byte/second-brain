@@ -2,7 +2,7 @@
 title: "“矮了怕减产，密了怕倒伏，脱水快了怕穗腐”—黄淮海玉米的“增密生死局”，有解吗？"
 tldr: "“矮了怕减产，密了怕倒伏，脱水快了怕穗腐”—黄淮海玉米的“增密生死局”，有解吗？ 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzNDY2NzIwMg==&mid=2247682578&idx=1&sn=38f7ced7eb7ad7bc48dfe5a69a62bdfd&chksm=e95a71976b0b0961ac7c0010cbddf60e61928819096ec9aa1"
 date_created: 2026-07-03
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, notes]
 source_type: notes

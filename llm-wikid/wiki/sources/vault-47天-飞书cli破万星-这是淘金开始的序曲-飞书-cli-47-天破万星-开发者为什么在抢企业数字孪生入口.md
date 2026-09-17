@@ -2,7 +2,7 @@
 title: "飞书 CLI 47 天破万星：开发者为什么在抢企业数字孪生入口"
 tldr: "飞书 CLI 47 天破万星：开发者为什么在抢企业数字孪生入口 笔记同步助手 来源 [原文链接](https://v.douyin.com/j5hs2UU1RtY/) 正文 **作者：**小天fotos 一、飞书 CLI 破万星：不只是一个开源项目的增长 飞书 CLI 在约一个半月内 GitHub Star 破万。作者认为，这并不只是“一万个开发者收藏了一个项目”，而更像是一批开发者正在进入一座新的“金矿”：企业数字孪生与企业 AI 转"
 date_created: 2026-07-02
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

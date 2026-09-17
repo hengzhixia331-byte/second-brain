@@ -2,7 +2,7 @@
 title: "The Plant Journal|拜耳&佐治亚大学团队开发BINN模型：嵌入生物学知识的神经网络，助力精准育种"
 tldr: "The Plant Journal|拜耳&佐治亚大学团队开发BINN模型：嵌入生物学知识的神经网络，助力精准育种 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0MDI5NjM2NA==&mid=2247521844&idx=1&sn=9b1246039e6daa2a4876162671341cde&chksm=e81ad1416ce8d0bc321d91463dfab65bc"
 date_created: 2026-08-23
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, bioinformatics_analysis, article]
 source_type: article

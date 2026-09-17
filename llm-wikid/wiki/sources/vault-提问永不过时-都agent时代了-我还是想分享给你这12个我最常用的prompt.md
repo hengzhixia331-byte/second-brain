@@ -2,7 +2,7 @@
 title: "都Agent时代了，我还是想分享给你这12个我最常用的Prompt。"
 tldr: "都Agent时代了，我还是想分享给你这12个我最常用的Prompt。 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647685346&idx=1&sn=0fc8dc62bcf67a466552d1204205ef31&chksm=f1c4daa88086d2c7edd7fc6cbfcb350c6bac2b3131f372da82dba7e"
 date_created: 2026-08-23
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

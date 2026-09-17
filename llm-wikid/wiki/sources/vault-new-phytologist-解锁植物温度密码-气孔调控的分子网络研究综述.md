@@ -2,7 +2,7 @@
 title: "【New Phytologist】解锁植物温度密码：气孔调控的分子网络研究综述"
 tldr: "【New Phytologist】解锁植物温度密码：气孔调控的分子网络研究综述 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzUzNzczODE4Mg==&mid=2247614423&idx=2&sn=7079e08032913b65e6bcdb28e6d1ca5d&chksm=fb6c47cbfdb69920cfa22f5bfe2911d5031e64583e428eda98"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, research_tools_and_methods, article]
 source_type: article

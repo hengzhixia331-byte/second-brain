@@ -2,7 +2,7 @@
 title: "乙肝疫苗接下来怎么接种？你想了解的都在这了！"
 tldr: "乙肝疫苗接下来怎么接种？你想了解的都在这了！ 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzU2MTAwNjE3NQ==&mid=2247490068&idx=1&sn=093f5036a5cd5efb6a4aaf26f7d3465c&chksm=fdd55e26fb45ddee4bfcada9c0bf430c7024de184a999388a17946a16ee63cd4f35"
 date_created: 2026-07-01
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, life_and_health, notes]
 source_type: notes

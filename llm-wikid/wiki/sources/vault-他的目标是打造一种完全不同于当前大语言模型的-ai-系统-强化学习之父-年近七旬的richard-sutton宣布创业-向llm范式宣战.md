@@ -2,7 +2,7 @@
 title: "强化学习之父、年近七旬的Richard Sutton宣布创业，向LLM范式宣战"
 tldr: "强化学习之父、年近七旬的Richard Sutton宣布创业，向LLM范式宣战 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649800688&idx=1&sn=c72ebb8252f20705c2de390191c69939&chksm=86faa7f4c106510aa19c62ae71e62de099581a64dba0e92723"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

@@ -2,7 +2,7 @@
 title: "Nature Communications｜CRISPR-Combo在马铃薯、柑橘、草莓和杨树中实现高效再生与编辑"
 tldr: "Nature Communications｜CRISPR-Combo在马铃薯、柑橘、草莓和杨树中实现高效再生与编辑 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzYzNTg5MzIxMQ==&mid=2247489820&idx=1&sn=b1659cb899e57e32d3da38fcd5c95daf&chksm=f11ec7fed2e80ff8440ac007e9a47d62"
 date_created: 2026-08-17
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_genetic_transformation, article]
 source_type: article

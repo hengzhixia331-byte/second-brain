@@ -2,7 +2,7 @@
 title: "ISPRS Journal of Photogrammetry and Remote Sensing|无人机-卫星协同用于作物监测的现状、挑战与未来方向"
 tldr: "ISPRS Journal of Photogrammetry and Remote Sensing|无人机-卫星协同用于作物监测的现状、挑战与未来方向 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg2NTIyMTkxMw==&mid=2247488575&idx=1&sn=5149a5311cfd5dfb8605f8b63290f22d&chksm=cf678ff90767f"
 date_created: 2026-07-13
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, research_tools_and_methods, article]
 source_type: article

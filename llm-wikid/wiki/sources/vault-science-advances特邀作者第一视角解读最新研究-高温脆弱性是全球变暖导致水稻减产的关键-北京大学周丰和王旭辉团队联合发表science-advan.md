@@ -2,7 +2,7 @@
 title: "高温脆弱性是全球变暖导致水稻减产的关键｜北京大学周丰和王旭辉团队联合发表Science Advances"
 tldr: "高温脆弱性是全球变暖导致水稻减产的关键｜北京大学周丰和王旭辉团队联合发表Science Advances 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NzQ2Mg==&mid=2247527045&idx=1&sn=0f77eafbfb5f355a92596dae2b71bac6&chksm=eadcce7c6ce77d4f9e7ecd1601749812d8700"
 date_created: 2026-08-17
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, ai_for_research, article]
 source_type: article

@@ -2,7 +2,7 @@
 title: "重磅！我国植物领域再发《Nature》"
 tldr: "公众号名称：植物微生物最前线 作者名称：植物研究所 发布时间：2026-06-25 14:54 ![[llm-wikid/raw/assets/images/c96577d71291a09e54f744c6a7422f1e_MD5.png]] ![[llm-wikid/raw/assets/images/c367258300e7769bac3fd088a6df09f3_MD5.png]] 全球气候变化引发区域性气候异常导致作物减产甚至绝"
 date_created: 2026-07-01
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

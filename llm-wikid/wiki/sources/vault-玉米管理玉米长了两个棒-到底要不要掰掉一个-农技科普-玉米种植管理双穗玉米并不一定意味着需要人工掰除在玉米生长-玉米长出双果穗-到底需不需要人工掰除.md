@@ -2,7 +2,7 @@
 title: "玉米长出双果穗，到底需不需要人工掰除？"
 tldr: "玉米长出双果穗，到底需不需要人工掰除？ 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzNDUyODUxMw==&mid=2247506933&idx=1&sn=98a97f58939e84eb2dbce64d1555326b&chksm=e90b953b5670e8714f4261fd0e6da024584975789ee62c8548ac31fea8f2a69fd68cbd"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, notes]
 source_type: notes

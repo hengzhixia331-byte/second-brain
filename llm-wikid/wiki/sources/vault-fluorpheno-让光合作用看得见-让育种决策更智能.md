@@ -2,7 +2,7 @@
 title: "FluorPheno：让光合作用看得见，让育种决策更智能"
 tldr: "FluorPheno：让光合作用看得见，让育种决策更智能 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546177&idx=2&sn=cdd4d090c976365f5558cbe358166bca&chksm=e8781aa5fd700f526435f0fe669ed09e9bf2c55e81993b08497da946cce6a"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, plant_phenotyping_and_imaging, notes]
 source_type: notes

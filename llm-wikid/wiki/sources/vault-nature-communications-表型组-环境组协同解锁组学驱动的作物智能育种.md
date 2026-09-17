@@ -2,7 +2,7 @@
 title: "Nature Communications | 表型组-环境组协同解锁组学驱动的作物智能育种"
 tldr: "Nature Communications | 表型组-环境组协同解锁组学驱动的作物智能育种 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546257&idx=1&sn=a4ae7f64006b408803172ea6c4cc012d&chksm=e81ef8fbd26bb4809bab14ab8aa531fde02e582b2c5"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, research_tools_and_methods, article]
 source_type: article

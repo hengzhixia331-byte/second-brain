@@ -15,7 +15,7 @@ wikid_category_label: "Bioinformatics Analysis"
 wikid_category_folder: bioinformatics_analysis
 wikid_concept: "[[Bioinformatics Analysis]]"
 wikid_classification_basis: "matched keywords: 遗传力, gwas, snp, gcta, greml, heritability, genome"
-wikid_classified_at: "2026-08-23 16:45"
+wikid_classified_at: "2026-09-17 14:49"
 wikid_category_tags: [web-clipper, wikid-raw, bioinformatics, omics, analysis]
 ---
 GWAS研究中发现的显著SNP只能解释人类群体中复杂性状很小一部分的遗传变异。那么剩余的遗传力在哪里？ 很多时候这部分遗传力并没有丢失，而是由于部分snp效应太小以至于无法达到显著水平而没有被检测到。
@@ -110,7 +110,7 @@ Yang, J. *et al.* Common SNPs explain a large proportion of the heritability for
 - Category: Bioinformatics Analysis
 - Concept: [[Bioinformatics Analysis]]
 - Basis: matched keywords: 遗传力, gwas, snp, gcta, greml, heritability, genome
-- Classified at: 2026-08-23 16:45
+- Classified at: 2026-09-17 14:49
 - Rule source: [[Web Clipper Classification Rules]]
 
 <!-- wikid-web-clipper-auto-classification:end -->

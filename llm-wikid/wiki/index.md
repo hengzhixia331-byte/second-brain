@@ -2,7 +2,7 @@
 title: "Wiki Index"
 tldr: "Master catalog of imported vault notes organized into LLM Wikid source and concept pages."
 date_created: 2026-07-01
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 explored: false
 confidence: medium
 ---
@@ -12,16 +12,16 @@ confidence: medium
 _Scan TLDRs to find relevant pages. Load full pages only when needed._
 
 ## Imported Concept Hubs
-- [[Maize Genetic Transformation]] - 7 imported source cards
+- [[Maize Genetic Transformation]] - 8 imported source cards
 - [[Plant Stress Resilience]] - 4 imported source cards
-- [[Maize Yield and Breeding]] - 38 imported source cards
+- [[Maize Yield and Breeding]] - 45 imported source cards
 - [[Plant Phenotyping and Imaging]] - 7 imported source cards
 - [[Bioinformatics Analysis]] - 6 imported source cards
 - [[AI for Research]] - 29 imported source cards
-- [[Research Tools and Methods]] - 9 imported source cards
+- [[Research Tools and Methods]] - 11 imported source cards
 - [[Finance and Investment]] - 8 imported source cards
 - [[Life and Health]] - 3 imported source cards
-- [[Career and Business Ideas]] - 4 imported source cards
+- [[Career and Business Ideas]] - 5 imported source cards
 
 ## Imported Sources
 - [[vault-2026-7-17-王冰冰-ai-育种落地应用之路]] - [[ 2026.7.17 王冰冰  AI  育种落地应用之路]] (AI for Research)
@@ -61,6 +61,7 @@ _Scan TLDRs to find relevant pages. Load full pages only when needed._
 - [[vault-微生信-在线绘制主成分分析图-principal-component-analysis-pca]] - [[微生信-在线绘制主成分分析图（Principal component analysis，PCA）]] (Bioinformatics Analysis)
 - [[vault-用codex设计视觉网站做造景推广]] - [[用Codex设计视觉网站做造景推广]] (Career and Business Ideas)
 - [[vault-vita-打破关键瓶颈-王克剑团队实现克隆效率稳定超99-且正常结实的一系法杂交稻]] - [[ Vita｜打破关键瓶颈，王克剑团队实现克隆效率稳定超99%且正常结实的一系法杂交稻]] (Career and Business Ideas)
+- [[vault-铁t12067和铁t15107不仅保留了双亲优点-还产生了良好的配合力-组配品种迅速扩张-铁391-郁青392-雷单1号-华硕807-铁研369-丰盛a8-铁3]] - [[铁T12067和铁T15107不仅保留了双亲优点，还产生了良好的配合力，组配品种迅速扩张：铁391、郁青392、雷单1号、华硕807、铁研369、丰盛A8、铁3107、铁3109、铁399、铁3...]] (Career and Business Ideas)
 - [[vault-从除草剂到基因帝国-孟山都如何掌控下一代农业价值-从一瓶除草剂到一个基因帝国-智种全球眼]] - [[从除草剂到基因帝国：孟山都如何掌控下一代农业价值？ 从一瓶除草剂到一个基因帝国- 智种全球眼]] (Career and Business Ideas)
 - [[vault-生物专业找工作自救-思路打开]] - [[生物专业找工作自救-思路打开]] (Career and Business Ideas)
 - [[vault-股票大调整-5-调至10-a股重大调整-下周一-正式实施]] - [[股票大调整 5%调至10%！A股重大调整！下周一，正式实施]] (Finance and Investment)
@@ -78,6 +79,7 @@ _Scan TLDRs to find relevant pages. Load full pages only when needed._
 - [[vault-biorxiv重磅-ai重新设计蛋白-造出能把大片段dna精准-装进基因组-的novocast]] - [[BioRxiv重磅- AI重新设计蛋白，造出能把大片段DNA精准“装进基因组”的NovoCAST]] (Maize Genetic Transformation)
 - [[vault-crispr-combo突破多年生植物再生瓶颈-nature-communications-crispr-combo在马铃薯-柑橘-草莓和杨树中实现高效再生与编]] - [[CRISPR-Combo突破多年生植物再生瓶颈 Nature Communications｜CRISPR-Combo在马铃薯、柑橘、草莓和杨树中实现高效再生与编辑]] (Maize Genetic Transformation)
 - [[vault-pbj-先正达团队开发lbcas12a介导的高效玉米hi-edit技术体系-可用于商业化品种基因编辑]] - [[ PBJ  - 先正达团队开发LbCas12a介导的高效玉米HI-Edit技术体系，可用于商业化品种基因编辑]] (Maize Genetic Transformation)
+- [[vault-plant-com-天津农学院-中国农业大学金危危团队发现玉米zmpar1可诱导卵细胞孤雌生殖与单倍体形成]] - [[ Plant Com - 天津农学院-中国农业大学金危危团队发现玉米ZmPAR1可诱导卵细胞孤雌生殖与单倍体形成]] (Maize Genetic Transformation)
 - [[vault-作物学报-中国农业科学院作物科学研究所谢传晓团队综述-基因编辑技术创制玉米紧凑新种质的研究进展]] - [[ 《作物学报》-中国农业科学院作物科学研究所谢传晓团队综述：基因编辑技术创制玉米紧凑新种质的研究进展]] (Maize Genetic Transformation)
 - [[vault-玉米转化率痛点剖析-植物遗传转化与crispr-cas编辑技术优化-顽拗型玉米转化攻关策略-phd-thesis]] - [[玉米转化率痛点剖析 植物遗传转化与CRISPR-Cas编辑技术优化：顽拗型玉米转化攻关策略（PhD Thesis）]] (Maize Genetic Transformation)
 - [[vault-基于结构与进化指导的微型rna引导的核酸酶的设计-诺奖团队最新science-ai设计-迷你-基因编辑酶-超越自然进化-高效编辑人类基因组]] - [[基于结构与进化指导的微型RNA引导的核酸酶的设计 诺奖团队最新Science：AI设计“迷你”基因编辑酶，超越自然进化，高效编辑人类基因组]] (Maize Genetic Transformation)
@@ -95,21 +97,28 @@ _Scan TLDRs to find relevant pages. Load full pages only when needed._
 - [[vault-2026年07月13日-内容由ai生成-hello-quark]] - [[2026年07月13日·内容由AI生成... Hello Quark]] (Maize Yield and Breeding)
 - [[vault-dna测序解决了-怎么读-基因编辑解决了-怎么改-但在合成生物学里-还有一个更基础的大问题一直没有真正解决-怎么又快-又准-又便宜地-写-出大量dna-nbt-]] - [[DNA测序解决了“怎么读”，基因编辑解决了“怎么改”，但在合成生物学里，还有一个更基础的大问题一直没有真正解决：怎么又快、又准、又便宜地“写”出大量DNA。 NBT- 千条基因，一锅“拼”出来：...]] (Maize Yield and Breeding)
 - [[vault-science-art一面科学-一面艺术-专注top级综述或分子机制图配图资料来源如果问一个育种家-现在水稻最-nat-commun-华中农大熊立仲团队发现一个]] - [[Science Art一面科学，一面艺术，专注TOP级综述或分子机制图配图资料来源如果问一个育种家：现在水稻最 Nat commun - 华中农大熊立仲团队发现一个被意外截短的免疫蛋白，如何让水...]] (Maize Yield and Breeding)
+- [[vault-nature-plants-一条进化保守的高温响应信号通路]] - [[ Nature Plants - 一条进化保守的高温响应信号通路]] (Maize Yield and Breeding)
+- [[vault-nature-plants-驯化选择的cipk-myb-hak-分子模块提升现代玉米耐盐性]] - [[ Nature plants-驯化选择的CIPK‑MYB‑HAK 分子模块提升现代玉米耐盐性]] (Maize Yield and Breeding)
 - [[vault-水稻耐高温机制突破-nature-四川农业大学团队揭示水稻高温下质膜快速自我保护新机制-挖掘到高温下具有稳产效应的osala5稀有单倍型]] - [[水稻耐高温机制突破 Nature - 四川农业大学团队揭示水稻高温下质膜快速自我保护新机制，挖掘到高温下具有稳产效应的OsALA5稀有单倍型]] (Maize Yield and Breeding)
+- [[vault-science-art专注top级综述或分子机制配图传统玉米育种提高产量-主要围绕三个核心指标展开-穗数-pc-中国农大易飞团队发现从-一穗独大-到-双穗并进-]] - [[Science Art专注TOP级综述或分子机制配图传统玉米育种提高产量，主要围绕三个核心指标展开：穗数 × PC - 中国农大易飞团队发现从“一穗独大”到“双穗并进”：激素重编程如何突破玉米高...]] (Maize Yield and Breeding)
 - [[vault-science-art一面科学-一面艺术-专注top级综述或分子机制图配图资料来源文章首先没有急于寻找功能基因-qtl定位之后-54-kb区域竟然空无一-基因-]] - [[Science Art一面科学，一面艺术，专注TOP级综述或分子机制图配图资料来源文章首先没有急于寻找功能基因 QTL定位之后，54 kb区域竟然空无一“基因”，是我的话，崩溃了！中国农大却发表...]] (Maize Yield and Breeding)
 - [[vault-science-bulletin-万向元团队整合遗传和多组学方法挖掘玉米耐盐基因资源]] - [[Science Bulletin - 万向元团队整合遗传和多组学方法挖掘玉米耐盐基因资源]] (Maize Yield and Breeding)
 - [[vault-昆士兰大学owen-m-powell团队为育种装上-生物学大脑-将植物生理规则写入预测模型-玉米小麦等已验证-跨环境预测更精准-未来整合分子网络-育种将从-凭运]] - [[昆士兰大学Owen M. Powell团队为育种装上“生物学大脑”：将植物生理规则写入预测模型，玉米小麦等已验证，跨环境预测更精准。未来整合分子网络，育种将从“凭运气”走向“靠设计”。 Tren...]] (Maize Yield and Breeding)
 - [[vault-2026年8月7日-安徽农业大学李晓玉教授-程备久教授-李长生教授团队在pbj期刊上在线发表了研究论文-首次在玉米ggp基因-5-utr中鉴定出一对功能协同的双]] - [[2026年8月7日，安徽农业大学李晓玉教授-程备久教授-李长生教授团队在PBJ期刊上在线发表了研究论文，首次在玉米GGP基因 5'UTR中鉴定出一对功能协同的双上游开放阅读框（dual-uORF...]] (Maize Yield and Breeding)
 - [[vault-懂育种-矮了怕减产-密了怕倒伏-脱水快了怕穗腐-黄淮海玉米的-增密生死局-有解吗]] - [[懂育种 “矮了怕减产，密了怕倒伏，脱水快了怕穗腐”—黄淮海玉米的“增密生死局”，有解吗？]] (Maize Yield and Breeding)
 - [[vault-nat-genetics-一石三鸟-华中农大严建兵团队发现高产-高蛋白-少施氮肥的-绿色-基因]] - [[【Nat Genetics】一石三鸟！华中农大严建兵团队发现高产、高蛋白、少施氮肥的“绿色”基因]] (Maize Yield and Breeding)
+- [[vault-玉米畸形穗大全-一根玉米穗-为何会长成22种-怪样子-智种快讯]] - [[玉米畸形穗大全 一根玉米穗，为何会长成22种“怪样子”？-智种快讯]] (Maize Yield and Breeding)
 - [[vault-大喇叭口期是玉米雌雄穗集中分化的核心节点-直接决定果穗大小-籽粒行数-穗粒数与花粉总量-同时也是玉米全生育期水肥需-为什么说玉米大喇叭口期是田间管理的核心节点]] - [[大喇叭口期是玉米雌雄穗集中分化的核心节点，直接决定果穗大小、籽粒行数、穗粒数与花粉总量，同时也是玉米全生育期水肥需... 为什么说玉米大喇叭口期是田间管理的核心节点？]] (Maize Yield and Breeding)
+- [[vault-全面系统总结植物干旱胁迫感知-信号转导及糖转运调控的最新研究进展]] - [[ 全面系统总结植物干旱胁迫感知、信号转导及糖转运调控的最新研究进展]] (Maize Yield and Breeding)
 - [[vault-gs育种选择技术-植物育种应该审慎使用-玉米dh系育种-不建议使用-不能听说国外同行在用dh-gs就盲目跟风-大公司可以考虑审慎使用-中小公司考虑成本可以不用-]] - [[GS育种选择技术，植物育种应该审慎使用。玉米DH系育种，不建议使用（不能听说国外同行在用DH+GS就盲目跟风），大公司可以考虑审慎使用，中小公司考虑成本可以不用。 再议： 为什么玉米DH系育种不...]] (Maize Yield and Breeding)
+- [[vault-历时18年攻关-万建民团队揭示亚洲栽培稻与非洲栽培稻种间生殖隔离的分子机制]] - [[ 历时18年攻关！万建民团队揭示亚洲栽培稻与非洲栽培稻种间生殖隔离的分子机制]] (Maize Yield and Breeding)
 - [[vault-学习抗旱叶温指标衡量抗旱标准]] - [[学习抗旱叶温指标衡量抗旱标准]] (Maize Yield and Breeding)
 - [[vault-本研究系统对比了无人机高通量表型与传统冠层萎蔫目测评分在大豆耐旱性评价中的表现-证实无人机多光谱指标能更稳定-更准确地反映雨养条件下的产量保持能力-无人机表型鉴]] - [[本研究系统对比了无人机高通量表型与传统冠层萎蔫目测评分在大豆耐旱性评价中的表现，证实无人机多光谱指标能更稳定、更准确地反映雨养条件下的产量保持能力。 无人机表型鉴定技术评估雨养大豆耐旱性及产量保持能力]] (Maize Yield and Breeding)
 - [[vault-李家洋团队最新cell]] - [[李家洋团队最新Cell]] (Maize Yield and Breeding)
 - [[vault-干旱是影响全球玉米生产稳定性的主要非生物胁迫因素之一-为应对这一环境挑战-作物在长期演化过程中形成了-干旱逃逸-河南农业大学玉米团队揭示zmfkf1b-zmer]] - [[干旱是影响全球玉米生产稳定性的主要非生物胁迫因素之一，为应对这一环境挑战，作物在长期演化过程中形成了“干旱逃逸 河南农业大学玉米团队揭示ZmFKF1b–ZmEREB214基因模块协同调控玉米耐旱...]] (Maize Yield and Breeding)
 - [[vault-本研究建立三重增效方案-利用精子-合子特异启动子驱动优化-lbcas12av-授粉后适度热激提升酶活-cas-融合-uba2-结构域抵御降解-热激与-uba-联]] - [[本研究建立三重增效方案：利用精子 - 合子特异启动子驱动优化 LbCas12aV；授粉后适度热激提升酶活；Cas 融合 UBA2 结构域抵御降解。热激与 UBA 联用使 Wx1 位点平均单倍编辑...]] (Maize Yield and Breeding)
 - [[vault-玉米育种知识-玉米-种植密度-亩穗数-穗子大小-穗粒数-千粒重与产量]] - [[玉米育种知识 玉米 种植密度（亩穗数）、穗子大小（穗粒数）、千粒重与产量→]] (Maize Yield and Breeding)
+- [[vault-目前-各地玉米陆续成熟收获-新季玉米上市已悄然拉开序幕-玉米收获后光知道晾晒可不行-想卖个好价钱-你得这样做]] - [[目前，各地玉米陆续成熟收获，新季玉米上市已悄然拉开序幕。 玉米收获后光知道晾晒可不行，想卖个好价钱，你得这样做！]] (Maize Yield and Breeding)
 - [[vault-搞清楚什么是穗内授粉时间差-玉米果穗授粉时间差-同步协调-源-库-和-个体-群体-关系-实现收获指数和产量协同提升]] - [[搞清楚什么是穗内授粉时间差 玉米果穗授粉时间差：同步协调“源-库”和“个体-群体”关系，实现收获指数和产量协同提升]] (Maize Yield and Breeding)
 - [[vault-玉米要高产离不开的-三遍药]] - [[玉米要高产离不开的“三遍药”]] (Maize Yield and Breeding)
 - [[vault-玉米管理玉米长了两个棒-到底要不要掰掉一个-农技科普-玉米种植管理双穗玉米并不一定意味着需要人工掰除在玉米生长-玉米长出双果穗-到底需不需要人工掰除]] - [[玉米管理玉米长了两个棒，到底要不要掰掉一个？农技科普 · 玉米种植管理双穗玉米并不一定意味着需要人工掰除在玉米生长... 玉米长出双果穗，到底需不需要人工掰除？]] (Maize Yield and Breeding)
@@ -134,8 +143,10 @@ _Scan TLDRs to find relevant pages. Load full pages only when needed._
 - [[vault-nature-communications-北大团队发现植物-高温生长-的-刹车-基因-为培育-气候智慧型-作物提供新靶点]] - [[ Nature Communications - 北大团队发现植物“高温生长”的“刹车”基因，为培育“气候智慧型”作物提供新靶点]] (Research Tools and Methods)
 - [[vault-nature-communications-表型组-环境组协同解锁组学驱动的作物智能育种]] - [[ Nature Communications - 表型组-环境组协同解锁组学驱动的作物智能育种]] (Research Tools and Methods)
 - [[vault-nature-methods-杨建华-李斌-陈建军-屈良鹄合作开发新算法-构建rna互作组百科全书]] - [[Nature Methods：杨建华-李斌-陈建军-屈良鹄合作开发新算法，构建RNA互作组百科全书]] (Research Tools and Methods)
+- [[vault-pce综述-热旱叠加时-植物如何让整株在几分钟内统一行动]] - [[ PCE综述 - 热旱叠加时，植物如何让整株在几分钟内统一行动]] (Research Tools and Methods)
 - [[vault-new-phytologist-解锁植物温度密码-气孔调控的分子网络研究综述]] - [[ 【New Phytologist】解锁植物温度密码：气孔调控的分子网络研究综述]] (Research Tools and Methods)
 - [[vault-trends-in-plant-sci-新方向-南京农大与德州理工团队探索植物抗逆的-隐藏密码-染色体外环状dna]] - [[【Trends in Plant Sci】新方向！南京农大与德州理工团队探索植物抗逆的“隐藏密码”：染色体外环状DNA]] (Research Tools and Methods)
+- [[vault-企微文档转-markdown-中国中化费用报销及报账共享系统操作培训v2-0-2024-9-13]] - [[企微文档转 Markdown 中国中化费用报销及报账共享系统操作培训V2.0-2024.9.13]] (Research Tools and Methods)
 - [[vault-中国科学院理化所刘静-饶伟团队iscience-多功能铋基液态金属多孔材料-cell-press对话科学家]] - [[中国科学院理化所刘静-饶伟团队iScience：多功能铋基液态金属多孔材料 - Cell Press对话科学家]] (Research Tools and Methods)
 - [[vault-张锋最新论文-细胞命运工程平台-筛选出全新转录因子组合-让胚胎干细胞高效重编程为造血干-祖细胞]] - [[张锋最新论文：细胞命运工程平台，筛选出全新转录因子组合，让胚胎干细胞高效重编程为造血干-祖细胞]] (Research Tools and Methods)
 - [[vault-重磅-我国植物领域再发-science]] - [[ 重磅！我国植物领域再发《Science》]] (Research Tools and Methods)
@@ -145,7 +156,7 @@ _Scan TLDRs to find relevant pages. Load full pages only when needed._
 - No duplicate note names detected among imported notes.
 
 ### Skipped notes
-See [[Vault Import Report]] and `result/2026-08-23_vault_note_inventory.csv`.
+See [[Vault Import Report]] and `result/2026-09-17_vault_note_inventory.csv`.
 
 ## Recommended Next Actions
 - Review plant-science hubs first: [[Maize Genetic Transformation]], [[Plant Stress Resilience]], [[Maize Yield and Breeding]], [[Plant Phenotyping and Imaging]], and [[Bioinformatics Analysis]].

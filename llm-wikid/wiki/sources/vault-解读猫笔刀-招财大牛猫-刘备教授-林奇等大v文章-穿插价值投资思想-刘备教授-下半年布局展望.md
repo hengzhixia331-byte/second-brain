@@ -2,7 +2,7 @@
 title: "刘备教授：下半年布局展望"
 tldr: "刘备教授：下半年布局展望 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzAwOTI0MTQyNg==&mid=2247484630&idx=1&sn=8e494fd74b512cddbe63a570d6d8f58b&chksm=9a2806340032a137c45e32a4f823a4adf9e1f6fc16de38aadd349977ad7bff4afab77c5828b1&"
 date_created: 2026-07-03
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, finance_and_investment, notes]
 source_type: notes

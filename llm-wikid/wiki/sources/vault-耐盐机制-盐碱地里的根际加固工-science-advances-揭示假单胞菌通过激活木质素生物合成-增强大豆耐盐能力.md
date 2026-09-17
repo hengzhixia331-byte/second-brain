@@ -2,7 +2,7 @@
 title: "盐碱地里的根际加固工 | Science Advances 揭示假单胞菌通过激活木质素生物合成，增强大豆耐盐能力"
 tldr: "盐碱地里的根际加固工 | Science Advances 揭示假单胞菌通过激活木质素生物合成，增强大豆耐盐能力 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzYzNTg5MzIxMQ==&mid=2247488686&idx=1&sn=611d992bec2c4a0f75e7971e6c52b7f0&chksm=f16881631442fb0ab8b1b2c5c1f96d101"
 date_created: 2026-07-02
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, plant_stress_resilience, article]
 source_type: article

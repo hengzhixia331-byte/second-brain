@@ -2,7 +2,7 @@
 title: "基于无人机的大豆冠层叶片倾角田间提取框架"
 tldr: "基于无人机的大豆冠层叶片倾角田间提取框架 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546448&idx=1&sn=76904c2ff7fb0fb37a1726be960c914b&chksm=e838528d324b9d466eb25563301d6492b3e213c2728c3b2b245a928d1f3e2533e2d0f"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

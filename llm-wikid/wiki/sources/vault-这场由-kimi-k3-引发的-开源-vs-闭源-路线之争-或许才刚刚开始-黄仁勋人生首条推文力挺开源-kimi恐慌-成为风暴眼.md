@@ -2,7 +2,7 @@
 title: "黄仁勋人生首条推文力挺开源，“Kimi恐慌”成为风暴眼"
 tldr: "黄仁勋人生首条推文力挺开源，“Kimi恐慌”成为风暴眼 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649801411&idx=1&sn=1aae96fe3c444842633e5d1a4344f69d&chksm=86167f9e0f4ec4203098c87fd6c2b7028ff53f82aef2b54adcbf007ee721ec"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

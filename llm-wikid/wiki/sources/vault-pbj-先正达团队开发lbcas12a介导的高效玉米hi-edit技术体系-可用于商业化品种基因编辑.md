@@ -2,7 +2,7 @@
 title: "PBJ  | 先正达团队开发LbCas12a介导的高效玉米HI-Edit技术体系，可用于商业化品种基因编辑"
 tldr: "PBJ  | 先正达团队开发LbCas12a介导的高效玉米HI-Edit技术体系，可用于商业化品种基因编辑 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247612247&idx=2&sn=562b199c4658237ed9356c161e4e035d&chksm=cf4f84bba5c03d0af16425f89fb75300e3a2"
 date_created: 2026-07-13
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_genetic_transformation, article]
 source_type: article

@@ -1,11 +1,11 @@
 ---
 title: "Research Tools and Methods"
-tldr: "Imported concept hub for 9 existing vault notes."
+tldr: "Imported concept hub for 11 existing vault notes."
 date_created: 2026-07-01
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: concept
 tags: [research, tools, methods]
-sources: [[[vault-trends-in-plant-sci-新方向-南京农大与德州理工团队探索植物抗逆的-隐藏密码-染色体外环状dna]], [[vault-nature-communications-北大团队发现植物-高温生长-的-刹车-基因-为培育-气候智慧型-作物提供新靶点]], [[vault-new-phytologist-解锁植物温度密码-气孔调控的分子网络研究综述]], [[vault-重磅-我国植物领域再发-science]], [[vault-中国科学院理化所刘静-饶伟团队iscience-多功能铋基液态金属多孔材料-cell-press对话科学家]], [[vault-张锋最新论文-细胞命运工程平台-筛选出全新转录因子组合-让胚胎干细胞高效重编程为造血干-祖细胞]], [[vault-isprs-journal-of-photogrammetry-and-remote-sensing-无人机-卫星协同用于作物监测的现状-挑战与未来方向]], [[vault-nature-methods-杨建华-李斌-陈建军-屈良鹄合作开发新算法-构建rna互作组百科全书]], [[vault-nature-communications-表型组-环境组协同解锁组学驱动的作物智能育种]]]
+sources: [[[vault-企微文档转-markdown-中国中化费用报销及报账共享系统操作培训v2-0-2024-9-13]], [[vault-trends-in-plant-sci-新方向-南京农大与德州理工团队探索植物抗逆的-隐藏密码-染色体外环状dna]], [[vault-nature-communications-北大团队发现植物-高温生长-的-刹车-基因-为培育-气候智慧型-作物提供新靶点]], [[vault-pce综述-热旱叠加时-植物如何让整株在几分钟内统一行动]], [[vault-new-phytologist-解锁植物温度密码-气孔调控的分子网络研究综述]], [[vault-重磅-我国植物领域再发-science]], [[vault-中国科学院理化所刘静-饶伟团队iscience-多功能铋基液态金属多孔材料-cell-press对话科学家]], [[vault-张锋最新论文-细胞命运工程平台-筛选出全新转录因子组合-让胚胎干细胞高效重编程为造血干-祖细胞]], [[vault-isprs-journal-of-photogrammetry-and-remote-sensing-无人机-卫星协同用于作物监测的现状-挑战与未来方向]], [[vault-nature-methods-杨建华-李斌-陈建军-屈良鹄合作开发新算法-构建rna互作组百科全书]], [[vault-nature-communications-表型组-环境组协同解锁组学驱动的作物智能育种]]]
 explored: false
 confidence: medium
 ---
@@ -15,7 +15,7 @@ confidence: medium
 This concept hub groups existing Obsidian notes imported from the current vault. It preserves original notes as sources and provides a review queue for deeper synthesis.
 
 ## Key Ideas
-- Number of linked source cards: 9
+- Number of linked source cards: 11
 - Import method: deterministic keyword classification from file path, title, and note body.
 - Original notes were not modified.
 
@@ -24,8 +24,10 @@ This concept hub groups existing Obsidian notes imported from the current vault.
 - [[vault-nature-communications-北大团队发现植物-高温生长-的-刹车-基因-为培育-气候智慧型-作物提供新靶点]] - original note [[ Nature Communications - 北大团队发现植物“高温生长”的“刹车”基因，为培育“气候智慧型”作物提供新靶点]]
 - [[vault-nature-communications-表型组-环境组协同解锁组学驱动的作物智能育种]] - original note [[ Nature Communications - 表型组-环境组协同解锁组学驱动的作物智能育种]]
 - [[vault-nature-methods-杨建华-李斌-陈建军-屈良鹄合作开发新算法-构建rna互作组百科全书]] - original note [[Nature Methods：杨建华-李斌-陈建军-屈良鹄合作开发新算法，构建RNA互作组百科全书]]
+- [[vault-pce综述-热旱叠加时-植物如何让整株在几分钟内统一行动]] - original note [[ PCE综述 - 热旱叠加时，植物如何让整株在几分钟内统一行动]]
 - [[vault-new-phytologist-解锁植物温度密码-气孔调控的分子网络研究综述]] - original note [[ 【New Phytologist】解锁植物温度密码：气孔调控的分子网络研究综述]]
 - [[vault-trends-in-plant-sci-新方向-南京农大与德州理工团队探索植物抗逆的-隐藏密码-染色体外环状dna]] - original note [[【Trends in Plant Sci】新方向！南京农大与德州理工团队探索植物抗逆的“隐藏密码”：染色体外环状DNA]]
+- [[vault-企微文档转-markdown-中国中化费用报销及报账共享系统操作培训v2-0-2024-9-13]] - original note [[企微文档转 Markdown 中国中化费用报销及报账共享系统操作培训V2.0-2024.9.13]]
 - [[vault-中国科学院理化所刘静-饶伟团队iscience-多功能铋基液态金属多孔材料-cell-press对话科学家]] - original note [[中国科学院理化所刘静-饶伟团队iScience：多功能铋基液态金属多孔材料 - Cell Press对话科学家]]
 - [[vault-张锋最新论文-细胞命运工程平台-筛选出全新转录因子组合-让胚胎干细胞高效重编程为造血干-祖细胞]] - original note [[张锋最新论文：细胞命运工程平台，筛选出全新转录因子组合，让胚胎干细胞高效重编程为造血干-祖细胞]]
 - [[vault-重磅-我国植物领域再发-science]] - original note [[ 重磅！我国植物领域再发《Science》]]

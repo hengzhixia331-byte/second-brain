@@ -2,7 +2,7 @@
 title: "无人机表型鉴定技术评估雨养大豆耐旱性及产量保持能力"
 tldr: "无人机表型鉴定技术评估雨养大豆耐旱性及产量保持能力 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzA4NjkzMDgzMw==&mid=2649787571&idx=1&sn=2fda6a3df27281a52f119b770242444c&chksm=860f691a3212039b13875284c88a27e38a16771ff668eb3bd9a979e1a1e8c266"
 date_created: 2026-08-17
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

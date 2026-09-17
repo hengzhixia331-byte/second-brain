@@ -2,7 +2,7 @@
 title: "NBT| 千条基因，一锅“拼”出来：DNA合成进入自组装时代"
 tldr: "NBT| 千条基因，一锅“拼”出来：DNA合成进入自组装时代 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyNjAyMTgzMg==&mid=2650497728&idx=1&sn=956a0e083c528bf69a6e5eff5b3a7367&chksm=f19f6cd61e989f8f9ee2b6eb2ecb0ae0537b87caa6daf7bc6627c9b263b"
 date_created: 2026-08-23
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

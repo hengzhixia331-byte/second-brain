@@ -2,7 +2,7 @@
 title: "玉米 种植密度（亩穗数）、穗子大小（穗粒数）、千粒重与产量→"
 tldr: "玉米 种植密度（亩穗数）、穗子大小（穗粒数）、千粒重与产量→ 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzNDUyODUxMw==&mid=2247506709&idx=1&sn=68121dec574be2ea8ab32624e25f190b&chksm=e9b5469b3b30c87aea61d6eed22cda94a29fc756c56e590849a6b139808"
 date_created: 2026-07-03
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, notes]
 source_type: notes

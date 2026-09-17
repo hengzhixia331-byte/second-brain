@@ -2,7 +2,7 @@
 title: "Science重磅封面 | 打破经典认知：树长得越高，真的越怕干旱吗？"
 tldr: "Science重磅封面 | 打破经典认知：树长得越高，真的越怕干旱吗？ 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzUxMzQzODcwMQ==&mid=2247533480&idx=1&sn=6367745898efd2387ff45f8c3a09d097&chksm=f8a197566ab90b5f2731612d0758838c106ae65146c4b5ffa3c9a0"
 date_created: 2026-07-03
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, plant_stress_resilience, article]
 source_type: article

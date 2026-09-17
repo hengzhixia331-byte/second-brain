@@ -2,7 +2,7 @@
 title: "使用GCTA （GREML）来估计SNP-遗传力 SNP Heritability"
 tldr: "GWAS研究中发现的显著SNP只能解释人类群体中复杂性状很小一部分的遗传变异。那么剩余的遗传力在哪里？ 很多时候这部分遗传力并没有丢失，而是由于部分snp效应太小以至于无法达到显著水平而没有被检测到。 与单SNP关联检验相对，GCTA中的GREML（genome-based restricted maximum likelihood）方法使用线性混合模型（ linear mixed models ， LMMs），将 **全部SNP** "
 date_created: 2026-07-02
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

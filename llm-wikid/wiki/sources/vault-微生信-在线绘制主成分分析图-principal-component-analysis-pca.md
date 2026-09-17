@@ -2,7 +2,7 @@
 title: "微生信-在线绘制主成分分析图（Principal component analysis，PCA）"
 tldr: "**[基础绘图](https://www.bioinformatics.com.cn/?keywords=%E5%9F%BA%E7%A1%80%E7%BB%98%E5%9B%BE)**- [饼图](https://www.bioinformatics.com.cn/?keywords=%E9%A5%BC%E5%9B%BE) - [线图](https://www.bioinformatics.com.cn/?keywords=%E7%BA"
 date_created: 2026-07-01
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, bioinformatics_analysis, notes]
 source_type: notes

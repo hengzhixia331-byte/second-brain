@@ -2,7 +2,7 @@
 title: "再议： 为什么玉米DH系育种不需要使用GS（全基因组选择）"
 tldr: "再议： 为什么玉米DH系育种不需要使用GS（全基因组选择） 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzAxMzgxMDM5Nw==&mid=2649884659&idx=1&sn=4bb0d04a59661d02ff94f7403658c07a&chksm=823eef7f830f5e14f59a3e4055c03ff01a8ae6b9192a57a78b71cfb590f1"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

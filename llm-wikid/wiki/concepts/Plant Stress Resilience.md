@@ -2,7 +2,7 @@
 title: "Plant Stress Resilience"
 tldr: "Imported concept hub for 4 existing vault notes."
 date_created: 2026-07-01
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: concept
 tags: [plant-science, stress, physiology]
 sources: [[[vault-树高的增加并不会损害全球最高热带树种的水力系统-也不会导致它们在干旱时比矮树更容易发生水力衰竭或生长停滞-随着树木长高-其木质部解剖结构和叶片生理功能的动态调整]], [[vault-耐盐机制-盐碱地里的根际加固工-science-advances-揭示假单胞菌通过激活木质素生物合成-增强大豆耐盐能力]], [[vault-science-中国农大丁杨林-杨淑华团队发现植物高温信号感知-纳米开关]], [[vault-警惕-7月玉米病虫害高发期-褐斑病-顶腐病-玉米螟-一定要注意防治]]]

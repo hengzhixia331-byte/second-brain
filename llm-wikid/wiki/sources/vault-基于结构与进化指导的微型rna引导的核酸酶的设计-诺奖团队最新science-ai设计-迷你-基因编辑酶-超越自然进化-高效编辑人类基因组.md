@@ -2,7 +2,7 @@
 title: "诺奖团队最新Science：AI设计“迷你”基因编辑酶，超越自然进化，高效编辑人类基因组"
 tldr: "诺奖团队最新Science：AI设计“迷你”基因编辑酶，超越自然进化，高效编辑人类基因组 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0NDc0NjQxMA==&mid=2247492792&idx=1&sn=32e79453b9e3a7b52311b191ebdd5a46&chksm=c28f544683336fcdafb70d4a5d3b8fffcb79edb097018"
 date_created: 2026-07-28
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_genetic_transformation, article]
 source_type: article

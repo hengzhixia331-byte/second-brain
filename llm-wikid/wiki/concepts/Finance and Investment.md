@@ -2,7 +2,7 @@
 title: "Finance and Investment"
 tldr: "Imported concept hub for 8 existing vault notes."
 date_created: 2026-07-01
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: concept
 tags: [finance, investment]
 sources: [[[vault-ai数据中心买光内存-手机电脑涨价潮开始]], [[vault-大改革-减少一次性大额融资对市场扰动-证监会征求意见-优化再融资制度]], [[vault-很精彩的抱团剖析-a股四次抱团行情的启示]], [[vault-股票大调整-5-调至10-a股重大调整-下周一-正式实施]], [[vault-对于两融余额的解读]], [[vault-股民就如一味中药-熬一熬发现更苦-金融-财经-股民-股市-男人要想混得好头发必须往后倒]], [[vault-解读猫笔刀-招财大牛猫-刘备教授-林奇等大v文章-穿插价值投资思想-刘备教授-下半年布局展望]], [[vault-7月3日盘前干货]]]

@@ -2,7 +2,7 @@
 title: "让番茄花型适配机器人授粉    Cell 报道 GEAIR 系统，实现花型设计、柱头识别和自动授粉"
 tldr: "让番茄花型适配机器人授粉    Cell 报道 GEAIR 系统，实现花型设计、柱头识别和自动授粉 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzYzNTg5MzIxMQ==&mid=2247489171&idx=1&sn=83fb9b196392ae0a7609463148e5e200&chksm=f141130461f36a21a9c7b3c7ffbec5b7f4cb161c"
 date_created: 2026-07-13
-date_modified: 2026-08-23
+date_modified: 2026-09-17
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article
