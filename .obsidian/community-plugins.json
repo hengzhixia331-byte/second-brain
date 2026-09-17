@@ -1,7 +1,6 @@
 [
   "agent-client",
   "terrain-graph",
-  "multiview-mindmap",
   "obsidian-git",
   "obsidian-image-auto-upload-plugin",
   "obsidian-image-toolkit",
@@ -9,5 +8,9 @@
   "calendar",
   "buttons",
   "omnisearch",
-  "mindcanvas"
+  "mindcanvas",
+  "tag-wrangler",
+  "obsidian42-brat",
+  "obsidian-banners",
+  "obsidian-shellcommands"
 ]
