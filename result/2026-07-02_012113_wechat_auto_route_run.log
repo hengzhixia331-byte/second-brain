@@ -1,0 +1,45 @@
+﻿**********************
+Windows PowerShell 脚本开始
+开始时间: 20260702012113
+用户名: 别摸🐟快学习\10359
+RunAs 用户: 别摸🐟快学习\10359
+配置名称: 
+计算机: 别摸🐟快学习 (Microsoft Windows NT 10.0.26200.0)
+主机应用程序: powershell.exe -NoProfile -ExecutionPolicy Bypass -File E:\5-newplanet\new planet\scripts\07_run_wechat_auto_route_refined.ps1
+进程 ID: 22400
+PSVersion: 5.1.26100.8655
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8655
+BuildVersion: 10.0.26100.8655
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+已启动脚本，输出文件为 E:\5-newplanet\new planet\result\2026-07-02_012113_wechat_auto_route_run.log
+[2026-07-02 01:21:13] WeChat auto route started
+Log: E:\5-newplanet\new planet\result\2026-07-02_012113_wechat_auto_route_run.log
+Scanned raw notes: 41
+Moved raw notes: 0
+Kept in place: 41
+Manifest: result/2026-07-02_wechat_raw_auto_route_manifest.csv
+Imported notes: 38
+Skipped notes: 3
+Concept hubs created: 10
+Duplicate note names: 0
+Updating 1 collection(s)...
+
+[1/1] llm-wikid (**/*.md)
+Collection: E:\5-newplanet\new planet\llm-wikid\wiki (**/*.md)
+Indexing: 63/63 ETA: 0s
+Indexed: 0 new, 0 updated, 63 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (62 unique hashes need vectors)
+Run manifest: E:\5-newplanet\new planet\result\2026-07-02_012113_wechat_raw_auto_route_manifest.csv
+[2026-07-02 01:21:14] WeChat auto route completed
+**********************
+Windows PowerShell 脚本结束
+结束时间: 20260702012114
+**********************

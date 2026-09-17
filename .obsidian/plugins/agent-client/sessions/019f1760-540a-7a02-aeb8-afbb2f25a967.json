@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sessionId": "019f1760-540a-7a02-aeb8-afbb2f25a967",
+  "agentId": "codex-acp",
+  "messages": [
+    {
+      "id": "ac2c935d-df75-4dbe-b590-ee7596e8b21c",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "你好"
+        }
+      ],
+      "timestamp": "2026-06-30T14:26:12.258Z"
+    }
+  ],
+  "savedAt": "2026-06-30T14:26:12.283Z"
+}

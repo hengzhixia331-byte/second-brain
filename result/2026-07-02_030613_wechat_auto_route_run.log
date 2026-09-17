@@ -1,0 +1,51 @@
+﻿**********************
+Windows PowerShell 脚本开始
+开始时间: 20260702030613
+用户名: 别摸🐟快学习\10359
+RunAs 用户: 别摸🐟快学习\10359
+配置名称: 
+计算机: 别摸🐟快学习 (Microsoft Windows NT 10.0.26200.0)
+主机应用程序: powershell.exe -NoProfile -ExecutionPolicy Bypass -File E:\5-newplanet\new planet\scripts\07_run_wechat_auto_route_refined.ps1
+进程 ID: 20628
+PSVersion: 5.1.26100.8655
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8655
+BuildVersion: 10.0.26100.8655
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+已启动脚本，输出文件为 E:\5-newplanet\new planet\result\2026-07-02_030613_wechat_auto_route_run.log
+[2026-07-02 03:06:13] WeChat auto route started
+Log: E:\5-newplanet\new planet\result\2026-07-02_030613_wechat_auto_route_run.log
+Imported from root Clippings: 0
+Classified web clippings: 2
+Moved into category folders: 0
+Criteria note: llm-wikid/raw/clippings/Web Clipper Classification Rules.md
+Manifest: result\2026-07-02_030613_web_clipper_import_manifest.csv
+Scanned raw notes: 46
+Moved raw notes: 1
+Kept in place: 44
+Manifest: result/2026-07-02_wechat_raw_auto_route_manifest.csv
+Imported notes: 41
+Skipped notes: 5
+Concept hubs created: 10
+Duplicate note names: 0
+Updating 1 collection(s)...
+
+[1/1] llm-wikid (**/*.md)
+Collection: E:\5-newplanet\new planet\llm-wikid\wiki (**/*.md)
+Indexing: 66/66 ETA: 0s
+Indexed: 0 new, 1 updated, 65 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (65 unique hashes need vectors)
+Run manifest: E:\5-newplanet\new planet\result\2026-07-02_030613_wechat_raw_auto_route_manifest.csv
+[2026-07-02 03:06:14] WeChat auto route completed
+**********************
+Windows PowerShell 脚本结束
+结束时间: 20260702030614
+**********************

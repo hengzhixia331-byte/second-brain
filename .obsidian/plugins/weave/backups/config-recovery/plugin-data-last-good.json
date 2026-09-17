@@ -1,0 +1,480 @@
+{
+  "defaultDeck": "",
+  "reviewsPerDay": 20,
+  "newCardsPerDay": 20,
+  "enableNotifications": true,
+  "theme": "auto",
+  "language": "zh-CN",
+  "autoShowAnswerSeconds": 0,
+  "learningSteps": [
+    1,
+    10
+  ],
+  "relearningSteps": [
+    10
+  ],
+  "graduatingInterval": 1,
+  "maxAdvanceDays": 3,
+  "enableShortcuts": true,
+  "showFloatingCreateButton": true,
+  "autoBackupConfig": {
+    "enabled": true,
+    "intervalHours": 24,
+    "triggers": {
+      "onStartup": true,
+      "onCardThreshold": true,
+      "cardThresholdCount": 100
+    },
+    "notifications": {
+      "onSuccess": true,
+      "onFailure": true
+    },
+    "autoBackupCount": 0
+  },
+  "multipleChoiceStats": {
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "totalAttempts": 0,
+    "lastUpdated": "2026-09-17T05:55:57.264Z"
+  },
+  "navigationVisibility": {
+    "deckStudy": true,
+    "cardManagement": true,
+    "incrementalReading": true,
+    "aiAssistant": true,
+    "apkgImport": true,
+    "csvImport": true,
+    "emergentDecks": true,
+    "memoryDeckLevels": true,
+    "usageGuide": true
+  },
+  "showSettingsButton": true,
+  "studyViewSpacing": "compact",
+  "weaveParentFolder": "",
+  "editorModalSize": {
+    "rememberLastSize": true,
+    "enableResize": true
+  },
+  "deckCardStyle": "default",
+  "mainInterfaceOpenLocation": "content",
+  "deckStudyAutoViewByLocationEnabled": true,
+  "queueOptimization": {
+    "learningSteps": {
+      "enabled": true,
+      "steps": [
+        1,
+        10
+      ],
+      "maxFailures": 5,
+      "showProgressIndicator": true
+    },
+    "interleaving": {
+      "enabled": true,
+      "mode": "smart",
+      "respectPriority": true,
+      "minGroupSize": 3,
+      "maxConsecutiveSameTag": 2
+    },
+    "difficultyTracking": {
+      "enabled": true,
+      "showIndicator": true,
+      "autoTag": true,
+      "interventionThreshold": 2,
+      "trendAnalysisWindow": 5
+    },
+    "priority": {
+      "enableUserPriority": true,
+      "enableDifficultyAdjustment": true,
+      "enableLeechBoost": true
+    }
+  },
+  "enableDirectDelete": false,
+  "showClozeModeSwitchButton": true,
+  "showStudySectionLabels": true,
+  "showStudyTimers": true,
+  "startupDataCheckMode": "smart",
+  "showPremiumFeaturesPreview": true,
+  "hintMaxUses": 5,
+  "license": {
+    "activationCode": "",
+    "isActivated": false,
+    "activatedAt": "",
+    "deviceFingerprint": "",
+    "expiresAt": "",
+    "productVersion": "",
+    "licenseType": "lifetime",
+    "entitlements": [],
+    "source": "local"
+  },
+  "licenseState": {
+    "localLicenses": []
+  },
+  "fsrsParams": {
+    "w": [
+      0.212,
+      1.2931,
+      2.3065,
+      8.2956,
+      6.4133,
+      0.8334,
+      3.0194,
+      0.001,
+      1.8722,
+      0.1666,
+      0.796,
+      1.4835,
+      0.0614,
+      0.2629,
+      1.6483,
+      0.6014,
+      1.8729,
+      0.5425,
+      0.0912,
+      0.0658,
+      0.1542
+    ],
+    "requestRetention": 0.9,
+    "maximumInterval": 365,
+    "enableFuzz": true,
+    "optimizationHistory": []
+  },
+  "simplifiedParsing": {
+    "enableTagTrigger": true,
+    "triggerTag": "#weave",
+    "symbols": {
+      "cardDelimiter": "<->",
+      "faceDelimiter": "---div---",
+      "clozeMarker": "=="
+    },
+    "batchParsing": {
+      "excludeFolders": [
+        ".obsidian",
+        ".trash",
+        "node_modules",
+        ".git"
+      ],
+      "maxFilesPerBatch": 50,
+      "defaultPriority": 0,
+      "excludeTags": [
+        "skip"
+      ]
+    },
+    "enableTemplateSystem": true,
+    "templates": [],
+    "defaultTemplateId": "official-qa",
+    "regexPresets": [
+      {
+        "id": "official-qa-format",
+        "name": "官方 Q&A 正则模板",
+        "description": "内置 Q/A 正则：用 Q: 与 A: 标记正反面，cardPattern 一次匹配全文中的多张卡片（设置页可测试解析）",
+        "mode": "pattern",
+        "patternMode": {
+          "cardPattern": "Q\\s*[:：]\\s*(.+?)\\s*A\\s*[:：]\\s*(.+?)(?=\\n\\s*Q\\s*[:：]|$)",
+          "flags": "gs",
+          "captureGroups": {
+            "front": 1,
+            "back": 2
+          }
+        },
+        "uuidLocation": "inline",
+        "uuidPattern": "<!-- (tk-[a-z0-9]{12}) -->",
+        "excludeTags": [
+          "禁止同步"
+        ],
+        "autoAddUUID": true,
+        "syncMethod": "tag-based"
+      }
+    ]
+  },
+  "migrationCompleted": false,
+  "editor": {
+    "linkStyle": "wikilink",
+    "linkPath": "short",
+    "preferAlias": true,
+    "attachmentDir": "Weave Assets",
+    "embedImages": true
+  },
+  "cardManager": {
+    "visibleFields": {
+      "table": {
+        "front": true,
+        "back": true,
+        "status": true,
+        "due": true,
+        "difficulty": true,
+        "priority": true,
+        "tags": true,
+        "deck": true,
+        "backlink": true,
+        "actions": true
+      },
+      "grid": {
+        "tags": true,
+        "priority": true,
+        "deck": true,
+        "backlink": true
+      }
+    },
+    "sort": {
+      "primary": {
+        "field": "due",
+        "order": "asc"
+      },
+      "secondary": null
+    },
+    "defaultFilters": {
+      "tag": "",
+      "status": ""
+    }
+  },
+  "clozeSettings": {
+    "enabled": true,
+    "openDelimiter": "==",
+    "closeDelimiter": "==",
+    "placeholder": "[...]"
+  },
+  "mediaAutoPlay": {
+    "enabled": false,
+    "mode": "first",
+    "timing": "showAnswer",
+    "playbackInterval": 2000
+  },
+  "enableDebugMode": false,
+  "showPerformanceSettings": false,
+  "repairTool": {
+    "repairScope": "current-file",
+    "repairMissingBlockIds": true,
+    "repairMissingUUIDs": true,
+    "repairMissingTimestamps": true,
+    "repairMalformedCallouts": true,
+    "createBackupBeforeRepair": false,
+    "confirmBeforeBatchRepair": true,
+    "blockIdGenerationStrategy": "random",
+    "timestampStrategy": "current"
+  },
+  "aiConfig": {
+    "apiKeys": {
+      "openai": {
+        "apiKey": "",
+        "model": "gpt-5.4-mini",
+        "verified": false
+      },
+      "gemini": {
+        "apiKey": "",
+        "model": "gemini-2.5-flash",
+        "verified": false
+      },
+      "anthropic": {
+        "apiKey": "",
+        "model": "claude-sonnet-4-6",
+        "verified": false
+      },
+      "deepseek": {
+        "apiKey": "",
+        "model": "deepseek-v4-flash",
+        "verified": false
+      },
+      "zhipu": {
+        "apiKey": "",
+        "model": "glm-5.1",
+        "verified": false
+      },
+      "siliconflow": {
+        "apiKey": "",
+        "model": "Qwen/Qwen3-32B",
+        "verified": false
+      },
+      "xai": {
+        "apiKey": "",
+        "model": "grok-4.3",
+        "verified": false
+      }
+    },
+    "defaultProvider": "zhipu",
+    "formatting": {
+      "enabled": true
+    },
+    "globalParams": {
+      "temperature": 0.7,
+      "maxTokens": 16384,
+      "requestTimeout": 180,
+      "concurrentLimit": 3
+    },
+    "systemPromptConfig": {
+      "useBuiltin": true,
+      "customPrompt": "",
+      "customSystemPrompts": []
+    },
+    "promptTemplates": {
+      "official": [
+        {
+          "id": "standard-qa",
+          "name": "标准问答生成",
+          "prompt": "请根据以下内容生成最多{count}张学习卡片，难度为{difficulty}。一卡一事实，答案尽量短；材料不足时可更少，禁止凑数。问题简洁明确，优先覆盖核心定义与关键机制。",
+          "useBuiltinSystemPrompt": true,
+          "description": "适用于一般性学习材料，生成原子化问答/挖空卡片",
+          "variables": [
+            "count",
+            "difficulty",
+            "template"
+          ],
+          "createdAt": "2026-09-17T05:55:57.263Z"
+        },
+        {
+          "id": "concept-explain",
+          "name": "概念解释型",
+          "prompt": "请提取关键概念并生成原子化卡片：每张只考一个点（定义、特点或应用之一）。答案短；可把应用场景放在背面作简短例子，不要把定义+特点+应用塞进一张卡。",
+          "useBuiltinSystemPrompt": true,
+          "description": "专注于概念理解，生成定义类、解释类原子卡片",
+          "variables": [
+            "count"
+          ],
+          "createdAt": "2026-09-17T05:55:57.263Z"
+        },
+        {
+          "id": "deep-understanding",
+          "name": "深度理解型",
+          "prompt": "生成考察机制、因果与应用的原子卡片（一卡一事实）。用「为什么/如何/在什么条件下」类短问题，答案保持简短可回忆；避免长段分析作文式答案，也避免空洞的简单名词默写。",
+          "useBuiltinSystemPrompt": true,
+          "description": "生成机制/因果/应用类原子卡片，强调可复习的理解",
+          "variables": [
+            "count",
+            "difficulty"
+          ],
+          "createdAt": "2026-09-17T05:55:57.263Z"
+        },
+        {
+          "id": "cloze-fill",
+          "name": "挖空填充型",
+          "prompt": "优先生成挖空题，使用 Weave 挖空语法（==关键词==）标记要回忆的关键词。每张卡片1-3个挖空点，保留足够上下文；禁止「请列出全部」式整表记忆，枚举请拆卡或用重叠挖空。",
+          "useBuiltinSystemPrompt": true,
+          "description": "专注于生成 Weave 语法挖空题，适合记忆关键术语和概念",
+          "variables": [
+            "count"
+          ],
+          "createdAt": "2026-09-17T05:55:57.263Z"
+        }
+      ],
+      "custom": []
+    },
+    "cardSplitting": {
+      "enabled": true,
+      "defaultTargetCount": 0,
+      "minContentLength": 100,
+      "maxContentLength": 5000,
+      "autoInheritTags": true,
+      "autoInheritSource": true,
+      "requireConfirmation": true,
+      "defaultInstruction": ""
+    },
+    "customFormatActions": [],
+    "customSplitActions": [],
+    "globalParamsPolicyVersion": 3
+  },
+  "deckTagGroups": [],
+  "memoryDeckOrganization": {
+    "enabled": true,
+    "minCandidateCardCount": 2,
+    "tagDriftFollowMode": "ask",
+    "activeRuleGroupId": "default",
+    "ruleGroups": [
+      {
+        "id": "default",
+        "name": "默认筛选组",
+        "minCandidateCardCount": 2,
+        "onlyLearnableDecks": false,
+        "requiredTags": [],
+        "excludedTags": [],
+        "sourceFolders": [],
+        "priorityMin": null,
+        "priorityMax": null,
+        "createdAfter": null,
+        "createdBefore": null
+      }
+    ]
+  },
+  "loadBalance": {
+    "dailyCapacity": 100,
+    "thresholds": {
+      "low": 0.5,
+      "normal": 0.8,
+      "high": 1.2
+    },
+    "fuzzMethod": "uniform",
+    "fuzzRangeDays": 2,
+    "forecast": {
+      "defaultDays": 14,
+      "maxDays": 30
+    }
+  },
+  "autoCheckDataConsistency": false,
+  "incrementalReading": {
+    "defaultIntervalFactor": 1.5,
+    "dailyNewLimit": 20,
+    "dailyReviewLimit": 50,
+    "defaultSplitLevel": 2,
+    "interleaveMode": true,
+    "maxConsecutiveSameTopic": 3,
+    "reviewThreshold": 7,
+    "maxInterval": 365,
+    "importFolder": "weave/incremental-reading/IR",
+    "selectionQuickCreateDeleteSource": false,
+    "selectionQuickCreateLastFolder": "",
+    "selectionQuickCreateBacklinkPosition": "start",
+    "selectionQuickCreateSourceDocumentBacklinkPosition": "start",
+    "appendSourceDocumentBacklinkOnSplitImport": false,
+    "scheduleStrategy": "processing",
+    "dailyTimeBudgetMinutes": 40,
+    "maxAppearancesPerDay": 2,
+    "enableTagGroupPrior": true,
+    "agingStrength": "low",
+    "autoPostponeStrategy": "gentle",
+    "priorityHalfLifeDays": 7,
+    "learnAheadDays": 3,
+    "tagGroupFollowMode": "ask",
+    "folderSubscription": {
+      "rules": [],
+      "initialScheduleMode": "today",
+      "importConfirmThreshold": 20
+    },
+    "calloutSignal": {
+      "enabled": true,
+      "typeWeights": [
+        {
+          "type": "question",
+          "enabled": true,
+          "weight": 2.5
+        },
+        {
+          "type": "warning",
+          "enabled": true,
+          "weight": 2
+        },
+        {
+          "type": "quote",
+          "enabled": true,
+          "weight": 1.5
+        },
+        {
+          "type": "tip",
+          "enabled": false,
+          "weight": 1.5
+        },
+        {
+          "type": "info",
+          "enabled": false,
+          "weight": 1
+        },
+        {
+          "type": "note",
+          "enabled": false,
+          "weight": 0.8
+        }
+      ],
+      "maxBoost": 2,
+      "saturationParam": 4,
+      "minContentLength": 0
+    }
+  },
+  "pinnedDecks": []
+}

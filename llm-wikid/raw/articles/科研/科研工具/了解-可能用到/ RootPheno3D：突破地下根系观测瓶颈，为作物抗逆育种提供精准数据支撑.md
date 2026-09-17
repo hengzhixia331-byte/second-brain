@@ -1,0 +1,167 @@
+---
+description: /
+author: PhenoTrait
+source: 微信公众号
+url: https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546448&idx=2&sn=d061cc6849a4ff02c586ba8d50e88f5f&chksm=e846169e80aec63141232ad02903ee504a89aff3d37c9e465885792e780aa97da7321be8b7c5&mpshare=1&scene=1&srcid=07261TVLg6TDXJoyHiT3w2AU&sharer_shareinfo=c779a7fcbb36ef6d2774057faed68b60&sharer_shareinfo_first=c779a7fcbb36ef6d2774057faed68b60#rd
+saved: 2026-07-26
+tags:
+  - 笔记同步助手
+id: 2e6069cf-d43b-44b0-b98a-7ef1aa09bc25
+---
+
+# RootPheno3D：突破地下根系观测瓶颈，为作物抗逆育种提供精准数据支撑
+#笔记同步助手
+## 来源
+[原文链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546448&idx=2&sn=d061cc6849a4ff02c586ba8d50e88f5f&chksm=e846169e80aec63141232ad02903ee504a89aff3d37c9e465885792e780aa97da7321be8b7c5&mpshare=1&scene=1&srcid=07261TVLg6TDXJoyHiT3w2AU&sharer_shareinfo=c779a7fcbb36ef6d2774057faed68b60&sharer_shareinfo_first=c779a7fcbb36ef6d2774057faed68b60#rd)
+## 正文
+公众号名称：植物表型资讯
+
+作者名称：PhenoTrait
+
+发布时间：2026-07-26 06:10
+
+[![](https://relay-1.bijitongbu.site/p/75fcb4e753208d48813a4baab4d69280.png)](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247543603&idx=1&sn=1934aa52afcb6c193cc31378277c99af&scene=21#wechat_redirect)
+
+[![](https://relay-1.bijitongbu.site/p/a40f351414a0370994442c0d69441f83.png)](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247542326&idx=1&sn=319fcf4914cb0336c3edaa47ea0a997c&scene=21#wechat_redirect)
+
+[![](https://relay-1.bijitongbu.site/p/8baedb92a932f15e7124b29e109c0212.png)](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247540829&idx=2&sn=1ceb9dc2997c7324cc97bfa786512d80&scene=21#wechat_redirect)
+
+[![](https://relay-1.bijitongbu.site/p/21460de0e7d258efd01dda63a6bf3a31.png)](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247537489&idx=1&sn=1e789f5c892a55c1581351b338d987e8&scene=21#wechat_redirect)
+
+![](https://relay-1.bijitongbu.site/p/3211d2c6b6a3d8df7047daada8d5b866.png)
+
+植物的根系，是扎根土壤的 “营养枢纽” 与 “支撑基石”，其形态结构直接决定了作物对水肥的吸收效率，更是作物抵御干旱、盐碱等逆境的核心关键。但长期以来，“看不清、测不准、效率低” 的行业痛点，让植物根系研究始终停留在浅层探索，成为农业科研与作物育种的一大瓶颈。近期，慧诺瑞德重磅推出**根系三维表型测量系统 RootPheno3D**，以毫米级三维重建技术与全自动化分析流程，一举打破传统研究桎梏，为植物根系研究带来新气象。
+
+1
+
+> **核心技术亮点**
+
+> **基于RGB多视角的三维成像技术**
+> 
+> **根系结构纤毫毕现**
+> 
+> ![](https://relay-1.bijitongbu.site/p/66810cd9efb06ab76fb83e7a674abdde.png)
+> 
+> 成像采集
+> 
+> ![](https://relay-1.bijitongbu.site/p/db256fdaacbb42d6b945ee02c710aed0.png)
+> 
+> > 📹 此处为视频内容（vid: wxv\_4360602363447836686）（上图为封面），未能直接提取，请前往原文查看：[在公众号原文中观看](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546448&idx=2&sn=d061cc6849a4ff02c586ba8d50e88f5f&chksm=e846169e80aec63141232ad02903ee504a89aff3d37c9e465885792e780aa97da7321be8b7c5&mpshare=1&scene=1&srcid=07261TVLg6TDXJoyHiT3w2AU&sharer_shareinfo=c779a7fcbb36ef6d2774057faed68b60&sharer_shareinfo_first=c779a7fcbb36ef6d2774057faed68b60#rd)
+> 
+> 原始采集视频
+> 
+> ![](https://relay-1.bijitongbu.site/p/f68185756cf867ec5bd1893cd5e7f7e7.png)
+> 
+> > 📹 此处为视频内容（vid: wxv\_4360602989439483909）（上图为封面），未能直接提取，请前往原文查看：[在公众号原文中观看](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546448&idx=2&sn=d061cc6849a4ff02c586ba8d50e88f5f&chksm=e846169e80aec63141232ad02903ee504a89aff3d37c9e465885792e780aa97da7321be8b7c5&mpshare=1&scene=1&srcid=07261TVLg6TDXJoyHiT3w2AU&sharer_shareinfo=c779a7fcbb36ef6d2774057faed68b60&sharer_shareinfo_first=c779a7fcbb36ef6d2774057faed68b60#rd)
+> 
+> 三维重建点云
+> 
+> ![](https://relay-1.bijitongbu.site/p/ec49d9db2241cf42d1efcfabe05766c7.png)
+> 
+> 垂直方向的空间分布曲线
+> 
+> RootPheno3D采用RGB成像技术，配合精密360°伺服旋转台，对根系进行高分辨率的三维重建，清晰呈现根系的结构和形态。
+
+> **iPheno3D-Root智能软件**
+> 
+> **一键生成分析报告**
+> 
+> ![](https://relay-1.bijitongbu.site/p/90adfba4f693f1e303eb3cc49dd1046b.png)
+> 
+> 数据采集
+> 
+> ![](https://relay-1.bijitongbu.site/p/95cd9d3dec6539ca23513d2767464cd5.png)
+> 
+> 包围盒
+> 
+> ![](https://relay-1.bijitongbu.site/p/2891ed9bd7610a2eae6df69910701635.png)
+> 
+> 顶视
+> 
+> ![](https://relay-1.bijitongbu.site/p/d459199aedf877d573abaf100e55e4d5.png)
+> 
+> 侧视
+> 
+> 慧诺瑞德公司自研的iPheno3D-Root软件实现"采集-重建-分析-报表"全流程自动化：
+> 
+> ❶**数据采集**
+> 
+> 千兆以太网实时传输无压缩图像
+> 
+> ❷**三维重建**
+> 
+> 生成稠密点云数据
+> 
+> ❸**性状提取**
+> 
+> 精准计算根系深度/最大深度、表面积、体积、密度、投影面积等等参数
+> 
+> ❹ **可视化输出**
+> 
+> 生成垂直分布曲线图、深度图、顶视/侧视投影图，凸包图，及Excel报表
+
+2
+
+> **应用领域**
+
+> ❶**作物抗逆育种**
+> 
+> 快速筛选深根、广根型抗旱品种
+> 
+> ❷ **水肥高效利用**
+> 
+> 量化根系构型与氮磷钾吸收效率相关性
+> 
+> ❸**栽培措施优化**
+> 
+> 评估不同耕作方式对根系空间拓展的影响
+> 
+> ❹**生长模型构建**
+> 
+> 提供真实三维参数校准作物模拟系统
+> 
+> ❺**根-冠协同研究**
+> 
+> 结合地上部表型数据揭示全株源库关系
+
+慧诺瑞德公司长期致力于植物表型技术自主创新，RootPheno3D的发布标志着植物根系研究进入了一个全新的三维时代。凭借其高精度的三维成像、灵活的配置、高效的自动化数据处理以及广泛的应用领域，RootPheno3D 必将成为植物科学研究领域不可或缺的重要工具，助力科研人员在根系研究的道路上不断探索、创新，为推动植物科学的发展和农业生产的可持续发展做出重要贡献。
+
+如需了解 RootPheno3D 及更多根系研究产品的详细信息，或寻求合作机会，可访问慧诺瑞德官网www.phenotrait.com，也可发送邮件至 info@phenotrait.com 咨询。
+
+> **扩展阅读**
+
+> -   ****[植物表型资讯2018年1-12月目录汇总](http://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247487688&idx=2&sn=c51d69cd1acbda7d4758740d6127b5d2&chksm=e97414f7de039de1b263c583ac8ef0357e71d0354cfd5c3195253fc9a31a1834cff0dcfd5a8a&scene=21#wechat_redirect)****
+>     
+> -   **[植物表型资讯2019年1-12月目录汇总](http://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247491277&idx=1&sn=ee8b1714676be269e0f51e6d7d3ccdeb&chksm=e9741af2de0393e483b3f2c894b6b3186973bfdeba52efb5a5f9607b76b84e40e88090d5e9cb&scene=21#wechat_redirect)  
+>     **
+>     
+> -   **[植物表型资讯2020年1-12月目录汇总](http://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247497147&idx=1&sn=b8c6c36dc19211649e9abada73f14315&chksm=e977f184de0078920b29178dd2b734cfd31d1ba6c1483c20c5f13d8e719ae9dd777aa217fdb9&scene=21#wechat_redirect)**
+>     
+> -   **[植物表型资讯2021年1-12月目录汇总](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247504203&idx=3&sn=d45de43a4dd64388592dff3ed430a6ec&scene=21#wechat_redirect)  
+>     **
+>     
+> 
+> -   **[植物表型资讯2022年1-12月目录汇总](http://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247512950&idx=2&sn=573e421c63b9356d512260e53e87bba6&chksm=e977b749de003e5f2295baec66a3d0fa8489e3e1d8ccd2dcacf26905dbf76ffa45172e5be952&scene=21#wechat_redirect)**
+>     
+> -   **[植物表型资讯2023年1-12月目录汇总](http://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247522585&idx=3&sn=3707549a6b6880aa39976b09bffcc84c&chksm=e9779d26de00143005840a5796c8b828575836990b6bc90ef22b7d88b6b1d2a0f9cc1c72fc65&scene=21#wechat_redirect)**
+>     
+> -   **[植物表型资讯2024年1-12月目录汇总](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247533799&idx=4&sn=f6c07a40d65ea5e1dcd58de9fbe8773c&scene=21#wechat_redirect)**
+>     
+> -   **[植物表型资讯2025年1-12月目录汇总](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247541876&idx=5&sn=d9e3217a5f8c41cef7d6fbfb87d0f08b&scene=21#wechat_redirect)**
+>     
+> -   [植物表型资讯2026年1-12月目录汇总](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247545960&idx=4&sn=5ebabda1bc7d31072eb413dd49f28d8e&scene=21#wechat_redirect)
+>     
+> -   ****[植物表型资讯分类专辑直通车](https://mp.weixin.qq.com/s?__biz=MzI5NTAwODE3NA==&mid=2649889890&idx=1&sn=055b1892264f8f5294311106aa93ff02&scene=21#wechat_redirect)****
+>     
+> -   ****[最畅销的田间表型平台长什么样？](http://mp.weixin.qq.com/s?__biz=MzI5NTAwODE3NA==&mid=2649890729&idx=1&sn=a86eb8a0ca44eb10ef723fca5c13510d&chksm=f45c9d68c32b147eaadb4d8c9d95f7f4deb6c2731fdb2dd0bab80822855c4ca9b690e792f341&scene=21#wechat_redirect)****
+>     
+
+![](https://relay-1.bijitongbu.site/p/7c99de9a0682570a41540d251c772d2f.png)
+
+> 📹 视频内容（上图为封面），请前往原文观看：[在公众号原文中观看](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546448&idx=2&sn=d061cc6849a4ff02c586ba8d50e88f5f&chksm=e846169e80aec63141232ad02903ee504a89aff3d37c9e465885792e780aa97da7321be8b7c5&mpshare=1&scene=1&srcid=07261TVLg6TDXJoyHiT3w2AU&sharer_shareinfo=c779a7fcbb36ef6d2774057faed68b60&sharer_shareinfo_first=c779a7fcbb36ef6d2774057faed68b60#rd)
+
+![](https://relay-1.bijitongbu.site/p/8380c9b3114e49e918206c3d47c5d95e.png)
+
+---
+
+内容效果不满意？[点此反馈](https://feedback.notebooksyncer.com/feedback/b871169f_1785025261205?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0Mjg5ODI1Ng%3D%3D%26mid%3D2247546448%26idx%3D2%26sn%3Dd061cc6849a4ff02c586ba8d50e88f5f%26chksm%3De846169e80aec63141232ad02903ee504a89aff3d37c9e465885792e780aa97da7321be8b7c5%26mpshare%3D1%26scene%3D1%26srcid%3D07261TVLg6TDXJoyHiT3w2AU%26sharer_shareinfo%3Dc779a7fcbb36ef6d2774057faed68b60%26sharer_shareinfo_first%3Dc779a7fcbb36ef6d2774057faed68b60%23rd&s=obsidian)

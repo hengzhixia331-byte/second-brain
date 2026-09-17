@@ -1,0 +1,162 @@
+{
+  "createdAt": "2026-09-17T05:55:58.482Z",
+  "reason": "manual-review",
+  "layout": {
+    "parentFolder": "",
+    "root": "weave",
+    "v2Paths": {
+      "root": "weave",
+      "schemaVersion": "weave/schema-version.md",
+      "memory": {
+        "root": "weave/memory",
+        "decks": "weave/memory/decks.json",
+        "deckCards": "weave/memory/deck-cards",
+        "formalDeckBindings": "weave/memory/formal-deck-bindings.json",
+        "cards": "weave/memory/cards",
+        "knowledgeGraphs": "weave/memory/deck-graphs",
+        "learning": {
+          "root": "weave/memory/learning",
+          "sessions": "weave/memory/learning/sessions"
+        },
+        "media": "weave/memory/media"
+      },
+      "ir": {
+        "root": "weave/incremental-reading",
+        "epub": "weave/incremental-reading/epub-reading",
+        "registry": "weave/incremental-reading/registry",
+        "pointsDir": "weave/incremental-reading/points",
+        "materialRecordsDir": "weave/incremental-reading/materials",
+        "legacyTopics": "weave/incremental-reading/topics.json",
+        "legacyDecks": "weave/incremental-reading/decks.json",
+        "blocks": "weave/incremental-reading/blocks.json",
+        "history": "weave/incremental-reading/history.json",
+        "chunks": "weave/incremental-reading/chunks.json",
+        "sources": "weave/incremental-reading/sources.json",
+        "studySessions": "weave/incremental-reading/study-sessions.json",
+        "calendarProgress": "weave/incremental-reading/calendar-progress.json",
+        "tagGroups": "weave/incremental-reading/tag-groups.json",
+        "tagGroupProfiles": "weave/incremental-reading/tag-group-profiles.json",
+        "documentGroupMap": "weave/incremental-reading/document-group-map.json",
+        "pdfBookmarkTasks": "weave/incremental-reading/pdf-bookmark-tasks.json",
+        "epubBookmarkTasks": "weave/incremental-reading/epub-bookmark-tasks.json",
+        "materialsIndex": "weave/incremental-reading/registry/materials-index.json",
+        "pointFilesIndex": "weave/incremental-reading/registry/point-files-index.json",
+        "scheduleProfiles": "weave/incremental-reading/registry/schedule-profiles.json",
+        "materials": {
+          "root": "weave/incremental-reading/materials",
+          "index": "weave/incremental-reading/materials/materials.json",
+          "sessions": "weave/incremental-reading/materials/sessions"
+        }
+      },
+      "questionBank": {
+        "root": "weave/question-bank",
+        "banks": "weave/question-bank/banks.json",
+        "banksDir": "weave/question-bank/banks",
+        "questionStats": "weave/question-bank/question-stats.json",
+        "testHistory": "weave/question-bank/test-history.json",
+        "inProgress": "weave/question-bank/in-progress.json",
+        "sessionArchives": "weave/question-bank/session-archives.json",
+        "errorBook": "weave/question-bank/error-book.json"
+      }
+    },
+    "pluginPaths": {
+      "root": ".obsidian/plugins/weave",
+      "state": {
+        "root": ".obsidian/plugins/weave/state",
+        "userProfile": ".obsidian/plugins/weave/state/user-profile.json",
+        "importMappings": ".obsidian/plugins/weave/state/import-mappings.json",
+        "studySession": ".obsidian/plugins/weave/state/study-session.json",
+        "localStorage": ".obsidian/plugins/weave/state/local-storage.json",
+        "qualityInbox": ".obsidian/plugins/weave/state/quality-inbox.json",
+        "incrementalReading": {
+          "root": ".obsidian/plugins/weave/state/incremental-reading",
+          "readingMaterialsRuntime": ".obsidian/plugins/weave/state/incremental-reading/reading-materials-runtime.json",
+          "epubReaderData": ".obsidian/plugins/weave/state/incremental-reading/epub-reader-data.json",
+          "monitoring": ".obsidian/plugins/weave/state/incremental-reading/monitoring.json",
+          "history": ".obsidian/plugins/weave/state/incremental-reading/history.json",
+          "studySessions": ".obsidian/plugins/weave/state/incremental-reading/study-sessions.json",
+          "calendarProgress": ".obsidian/plugins/weave/state/incremental-reading/calendar-progress.json",
+          "readerState": ".obsidian/plugins/weave/state/incremental-reading/reader-state"
+        }
+      },
+      "indices": {
+        "root": ".obsidian/plugins/weave/cache/indices",
+        "card": ".obsidian/plugins/weave/cache/indices/card-index.json",
+        "deck": ".obsidian/plugins/weave/cache/indices/deck-index.json",
+        "deckMembership": ".obsidian/plugins/weave/cache/indices/deck-membership-index.json",
+        "studyDue": ".obsidian/plugins/weave/cache/indices/study-due-index.json",
+        "ir": ".obsidian/plugins/weave/cache/indices/ir-index.json",
+        "question": ".obsidian/plugins/weave/cache/indices/question-index.json",
+        "bodyFingerprint": ".obsidian/plugins/weave/cache/indices/body-fingerprint-index.json"
+      },
+      "cache": {
+        "root": ".obsidian/plugins/weave/cache",
+        "anchors": ".obsidian/plugins/weave/cache/anchors-cache.json",
+        "editorTemp": ".obsidian/plugins/weave/cache/editor-temp",
+        "wdeckIndex": ".obsidian/plugins/weave/cache/wdeck-index.json",
+        "wdeckConflicts": ".obsidian/plugins/weave/cache/wdeck-conflicts.json",
+        "questionBank": {
+          "root": ".obsidian/plugins/weave/cache/question-bank",
+          "inProgress": ".obsidian/plugins/weave/cache/question-bank/in-progress",
+          "sessionArchives": ".obsidian/plugins/weave/cache/question-bank/session-archives"
+        },
+        "incrementalReading": {
+          "root": ".obsidian/plugins/weave/cache/incremental-reading",
+          "irCalendarCache": ".obsidian/plugins/weave/cache/incremental-reading/ir-calendar-cache.json",
+          "epubBacklinkHighlightsCache": ".obsidian/plugins/weave/cache/incremental-reading/epub-backlink-highlights-cache.json",
+          "documentGroupMap": ".obsidian/plugins/weave/cache/incremental-reading/document-group-map.json",
+          "pointFilesIndex": ".obsidian/plugins/weave/cache/incremental-reading/point-files-index.json",
+          "syncState": ".obsidian/plugins/weave/cache/incremental-reading/sync-state.json",
+          "readerArtifacts": ".obsidian/plugins/weave/cache/incremental-reading/reader-artifacts"
+        }
+      },
+      "backups": ".obsidian/plugins/weave/backups",
+      "migration": {
+        "root": ".obsidian/plugins/weave/cache/migration",
+        "state": ".obsidian/plugins/weave/cache/migration/migration-state.json"
+      }
+    },
+    "irImportFolder": "weave/incremental-reading/IR"
+  },
+  "legacyRoots": [
+    {
+      "path": "tuanki",
+      "kind": "legacy-plugin-root",
+      "exists": false,
+      "sourceWins": true
+    },
+    {
+      "path": ".tuanki",
+      "kind": "legacy-hidden-root",
+      "exists": false,
+      "sourceWins": false
+    },
+    {
+      "path": ".obsidian/plugins/weave/question-bank",
+      "kind": "legacy-plugin-question-bank-root",
+      "exists": false,
+      "sourceWins": false,
+      "targetPath": "weave/question-bank"
+    },
+    {
+      "path": "weave/_data",
+      "kind": "legacy-machine-root",
+      "exists": false,
+      "sourceWins": true,
+      "targetPath": "weave"
+    },
+    {
+      "path": "weave/IR",
+      "kind": "legacy-ir-root",
+      "exists": false,
+      "sourceWins": false,
+      "targetPath": "weave/incremental-reading"
+    }
+  ],
+  "activeSourceRoots": [],
+  "targetRoot": "weave",
+  "conflictsRoot": "weave/_migration_conflicts",
+  "backupPath": ".obsidian/plugins/weave/backups/data-migration-2026-09-17T05-55-58-482Z",
+  "requiresMigration": false,
+  "warnings": []
+}

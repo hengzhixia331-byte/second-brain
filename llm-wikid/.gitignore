@@ -1,0 +1,16 @@
+# Obsidian workspace (user-specific, changes constantly)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code (keep shared commands and settings, ignore user-specific)
+.claude/*
+!.claude/commands/
+!.claude/settings.json
+
+# Secrets
+.env

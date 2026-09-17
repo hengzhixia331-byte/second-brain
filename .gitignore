@@ -1,0 +1,19 @@
+.qmd/
+.env
+Thumbs.db
+.DS_Store
+
+# Obsidian volatile workspace files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/.obsidian-sync-helper-backup/
+
+# Plugin data files may contain API keys; keep only the safe automation configs.
+.obsidian/plugins/*/data.json
+!.obsidian/plugins/obsidian-git/data.json
+!.obsidian/plugins/templater-obsidian/data.json
+!.obsidian/plugins/obsidian-shellcommands/data.json
+
+# Local caches
+*.tmp
+*.temp

@@ -1,0 +1,15 @@
+{
+  "id": "auto",
+  "timestamp": "2026-09-17T05:55:59.980Z",
+  "type": "auto",
+  "size": 1272,
+  "description": "自动备份 (startup)",
+  "trigger": "manual_request",
+  "path": ".obsidian/plugins/weave/backups/auto",
+  "isValid": true,
+  "dataTypes": [
+    "decks",
+    "cards",
+    "profile"
+  ]
+}

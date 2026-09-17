@@ -1,0 +1,357 @@
+{
+  "version": 1,
+  "sessionId": "019f2601-84f3-7891-99cb-9ec3e7da277b",
+  "agentId": "codex-acp",
+  "messages": [
+    {
+      "id": "8d3f46b2-0be5-4936-ac8c-4fe9ecbc1a44",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "帮我看看永创智能，东睦股份，桐程新材，东方锆业这四只股票，全面分析一下"
+        }
+      ],
+      "timestamp": "2026-07-03T03:27:24.914Z"
+    },
+    {
+      "id": "1378913b-bf6f-4ae9-9232-d0199a99fe34",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "我先核对这四家公司最新行情、公告和财报口径，再给你一个偏“基本面 + 行业 + 估值/催化 + 风险”的横向比较。股票信息变化很快，我会按今天能查到的公开资料来判断。"
+        }
+      ],
+      "timestamp": "2026-07-03T03:27:43.939Z"
+    },
+    {
+      "id": "ef606e1c-37e8-44c0-9330-75e69555122c",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c30040c81938cae88c3882557c6",
+          "title": "Searching for: 永创智能 603901 2025 年报 2026 一季报 营收 净利润, 东睦股份 600114 2025 年报 2026 一季报 营收 净利润, 桐程新材 603650 2025 年报 2026 一季报 营收 净利润, 东方锆业 002167 2025 年报 2026 一季报 营收 净利润",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "永创智能 603901 2025 年报 2026 一季报 营收 净利润",
+            "action": {
+              "type": "search",
+              "query": "永创智能 603901 2025 年报 2026 一季报 营收 净利润",
+              "queries": [
+                "永创智能 603901 2025 年报 2026 一季报 营收 净利润",
+                "东睦股份 600114 2025 年报 2026 一季报 营收 净利润",
+                "桐程新材 603650 2025 年报 2026 一季报 营收 净利润",
+                "东方锆业 002167 2025 年报 2026 一季报 营收 净利润"
+              ]
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:27:45.211Z"
+    },
+    {
+      "id": "4c74be15-61cc-44bf-bdad-8376c8ec4e24",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c38c444819388fb06fa838d0f0a",
+          "title": "Searching for: finance: 603901",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "finance: 603901",
+            "action": {
+              "type": "search",
+              "query": "finance: 603901",
+              "queries": [
+                "finance: 603901"
+              ]
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:27:54.155Z"
+    },
+    {
+      "id": "e8f86e31-5c95-4f08-ba8f-a4f0fc2f766a",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c3d20288193a71cef7962ffebc2",
+          "title": "Searching for: finance: 603901.SS",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "finance: 603901.SS",
+            "action": {
+              "type": "search",
+              "query": "finance: 603901.SS",
+              "queries": [
+                "finance: 603901.SS"
+              ]
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:27:58.301Z"
+    },
+    {
+      "id": "3553f635-0876-4eb8-9fda-61c21d88b4e9",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c40e23c8193ad4f8e004e2cb209",
+          "title": "Searching for: 603901 永创智能 最新股价 市值 PE 2026 7月3日, 600114 东睦股份 最新股价 市值 PE 2026 7月3日, 603650 彤程新材 最新股价 市值 PE 2026 7月3日, 002167 东方锆业 最新股价 市值 PE 2026 7月3日",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "603901 永创智能 最新股价 市值 PE 2026 7月3日",
+            "action": {
+              "type": "search",
+              "query": "603901 永创智能 最新股价 市值 PE 2026 7月3日",
+              "queries": [
+                "603901 永创智能 最新股价 市值 PE 2026 7月3日",
+                "600114 东睦股份 最新股价 市值 PE 2026 7月3日",
+                "603650 彤程新材 最新股价 市值 PE 2026 7月3日",
+                "002167 东方锆业 最新股价 市值 PE 2026 7月3日"
+              ]
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:28:02.343Z"
+    },
+    {
+      "id": "206703a4-f757-4ce2-8f3f-bc68ae8d7e08",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c4aa328819391fb8edd0942bf93",
+          "title": "Searching for: 永创智能 2026 第一季度报告 2025 年年度报告 603901 PDF, 东睦股份 2026 第一季度报告 2025 年年度报告 600114 PDF, 彤程新材 2026 第一季度报告 2025 年年度报告 603650 PDF, 东方锆业 2026 第一季度报告 2025 年年度报告 002167 PDF",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "永创智能 2026 第一季度报告 2025 年年度报告 603901 PDF",
+            "action": {
+              "type": "search",
+              "query": "永创智能 2026 第一季度报告 2025 年年度报告 603901 PDF",
+              "queries": [
+                "永创智能 2026 第一季度报告 2025 年年度报告 603901 PDF",
+                "东睦股份 2026 第一季度报告 2025 年年度报告 600114 PDF",
+                "彤程新材 2026 第一季度报告 2025 年年度报告 603650 PDF",
+                "东方锆业 2026 第一季度报告 2025 年年度报告 002167 PDF"
+              ]
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:28:11.808Z"
+    },
+    {
+      "id": "5343219c-6d8b-4830-826f-96ac4037fdd9",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c5498e081938412acdff2ae9e19",
+          "title": "Opening: https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12144951&stockid=603901",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12144951&stockid=603901",
+            "action": {
+              "type": "open_page",
+              "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12144951&stockid=603901"
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:28:21.856Z"
+    },
+    {
+      "id": "504c7287-8e0f-48d6-9d0a-42844744da29",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c5e560881938626afeb46059169",
+          "title": "Finding: ¥11 in https://www.google.com/finance/quote/603901%3ASHA?hl=zh",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "'¥11' in https://www.google.com/finance/quote/603901%3ASHA?hl=zh",
+            "action": {
+              "type": "find_in_page",
+              "url": "https://www.google.com/finance/quote/603901%3ASHA?hl=zh",
+              "pattern": "¥11"
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:28:33.497Z"
+    },
+    {
+      "id": "6793b4da-7ec7-4c71-b4cf-9788d9679eff",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c619ea081939fd25987a49af789",
+          "title": "Opening: https://www.google.com/finance/quote/600114%3ASHA?hl=zh",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "https://www.google.com/finance/quote/600114%3ASHA?hl=zh",
+            "action": {
+              "type": "open_page",
+              "url": "https://www.google.com/finance/quote/600114%3ASHA?hl=zh"
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:28:34.961Z"
+    },
+    {
+      "id": "ffae6895-d97b-4ff4-b00d-9397c7a60b42",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c65481c8193945cdb0fd4d76c46",
+          "title": "Opening: https://www.google.com/finance/quote/002167%3ASHE?hl=zh",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "https://www.google.com/finance/quote/002167%3ASHE?hl=zh",
+            "action": {
+              "type": "open_page",
+              "url": "https://www.google.com/finance/quote/002167%3ASHE?hl=zh"
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:28:38.475Z"
+    },
+    {
+      "id": "bd026042-1e87-47d0-bb4e-1a3c91f5e32f",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c6bacbc81939240ecc7a8462a2e",
+          "title": "Searching for: 东睦股份 2025 年报 营业收入 归母净利润 2025年 年报 2026, 彤程新材 2025 年报 营业收入 归母净利润 2025年 年报 2026, 东方锆业 2025 年报 营业收入 归母净利润 2025年 年报 2026, 永创智能 2025 年报 营业收入 归母净利润 2025年 年报 2026",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "东睦股份 2025 年报 营业收入 归母净利润 2025年 年报 2026",
+            "action": {
+              "type": "search",
+              "query": "东睦股份 2025 年报 营业收入 归母净利润 2025年 年报 2026",
+              "queries": [
+                "东睦股份 2025 年报 营业收入 归母净利润 2025年 年报 2026",
+                "彤程新材 2025 年报 营业收入 归母净利润 2025年 年报 2026",
+                "东方锆业 2025 年报 营业收入 归母净利润 2025年 年报 2026",
+                "永创智能 2025 年报 营业收入 归母净利润 2025年 年报 2026"
+              ]
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:28:44.850Z"
+    },
+    {
+      "id": "f76acf53-0a12-4a13-a947-9746055e65c8",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c79ee188193aed858e4ddc36687",
+          "title": "Searching for: 东睦股份 业务 P&S MIM SMC 2025 年报 上海富驰 消费电子 机器人, 永创智能 具身智能 机器人 2026 布局 公告 603901, 彤程新材 电子化学品 光刻胶 CMP EBR 2025 年报 业务, 东方锆业 锆系列制品 氧氯化锆 电熔锆 二氧化锆 2025 年报",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "东睦股份 业务 P&S MIM SMC 2025 年报 上海富驰 消费电子 机器人",
+            "action": {
+              "type": "search",
+              "query": "东睦股份 业务 P&S MIM SMC 2025 年报 上海富驰 消费电子 机器人",
+              "queries": [
+                "东睦股份 业务 P&S MIM SMC 2025 年报 上海富驰 消费电子 机器人",
+                "永创智能 具身智能 机器人 2026 布局 公告 603901",
+                "彤程新材 电子化学品 光刻胶 CMP EBR 2025 年报 业务",
+                "东方锆业 锆系列制品 氧氯化锆 电熔锆 二氧化锆 2025 年报"
+              ]
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:29:00.697Z"
+    },
+    {
+      "id": "6db28aff-9774-45a0-9361-a875f87596a2",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c85146081938f155332a05d2f73",
+          "title": "Opening: https://www.google.com/finance/quote/600114%3ASHA?hl=zh",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "https://www.google.com/finance/quote/600114%3ASHA?hl=zh",
+            "action": {
+              "type": "open_page",
+              "url": "https://www.google.com/finance/quote/600114%3ASHA?hl=zh"
+            }
+          }
+        }
+      ],
+      "timestamp": "2026-07-03T03:29:10.260Z"
+    },
+    {
+      "id": "a75e84f1-e19a-42d3-84c7-3dff38e81726",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ws_0d07f938f11bf2e5016a472c87cf7c8193872421bf01196643",
+          "title": "Opening: https://www.google.com/finance/quote/603901%3ASHA?hl=zh",
+          "status": "completed",
+          "kind": "fetch",
+          "content": [],
+          "rawInput": {
+            "query": "https://www.google.com/finance/quote/603901%3ASHA?hl=zh",
+            "action": {
+              "type": "open_page",
+              "url": "https://www.google.com/finance/quote/603901%3ASHA?hl=zh"
+            }
+          }
+        },
+        {
+          "type": "text",
+          "text": "我按“彤程新材（603650）”理解，你写的“桐程新材”应是笔误。以下是截至 **2026-07-03 午间盘中** 的公开信息梳理，行情会实时变化，不构成个性化投资建议。\n\n**先给结论**\n\n四只里面，我更偏向这样看：\n\n1. **东睦股份**：基本面和成长逻辑最均衡，MIM/SMC/P&S 三条线都有产业趋势支撑，但股价已经反映不少预期。\n2. **永创智能**：主业修复 + 具身智能期权，估值相对没那么极端，但机器人业务仍需订单兑现。\n3. **彤程新材**：质地不错，电子化学品/光刻胶逻辑强，但当前估值压力最大，不能只看题材。\n4. **东方锆业**：弹性最强，也最像周期 + 题材股，近期涨幅和估值都要求很高，风险最大。\n\n**核心数据对比**\n\n| 股票 | 最新盘中价 | 市值 | PE | 2025年业绩 | 2026Q1表现 |\n|---|---:|---:|---:|---|---|\n| 永创智能 603901 | 11.59元 | 64.77亿 | 33.8x | 营收39.89亿，归母净利1.37亿，同比+780.87% | 营收9.94亿，净利7129.56万 |\n| 东睦股份 600114 | 38.08元 | 228.94亿 | 43.2x | 营收60.4亿，归母净利5.36亿，同比+35% | 营收15.37亿，净利1.26亿 |\n| 彤程新材 603650 | 91.98元 | 569.82亿 | 94.7x | 营收34.29亿，归母净利5.63亿，同比+8.86% | 营收10.49亿，净利1.82亿 |\n| 东方锆业 002167 | 25.65元 | 188.09亿 | 84.2x | 营收12.45亿，归母净利5278万，同比-70.16% | 营收3.02亿，净利2024.56万 |\n\n数据来源：行情与估值参考 Google Finance；永创智能 2025/2026Q1 数据见公司业绩披露和研报摘要；东睦股份、彤程新材、东方锆业业绩数据来自公司年报/一季报公开报道。([google.com](https://www.google.com/finance/quote/603901%3ASHA?hl=zh)) ([google.com](https://www.google.com/finance/quote/600114%3ASHA?hl=zh)) ([google.com](https://www.google.com/finance/quote/603650%3ASHA?hl=zh)) ([google.com](https://www.google.com/finance/quote/002167%3ASHE?hl=zh)) ([pdf.dfcfw.com](https://pdf.dfcfw.com/pdf/H3_AP202605181822412426_1.pdf?1781795637000.pdf=&utm_source=openai)) ([news.qq.com](https://news.qq.com/rain/a/20260420A07I6H00?utm_source=openai)) ([stcn.com](https://www.stcn.com/article/detail/3758886.html?utm_source=openai)) ([eeo.com.cn](https://www.eeo.com.cn/2026/0512/873074.shtml?utm_source=openai))\n\n**逐个看**\n\n**永创智能**  \n主业是智能包装装备，2025 年业绩明显修复，2026Q1 继续改善，核心看点是订单结构改善、毛利率修复，以及公司切入具身智能/工业机器人场景。它的优势是原本就有工业自动化、包装产线客户和落地场景，不是完全空转题材。风险是机器人业务目前仍属于早期验证，真正贡献收入和利润还需要看小批量订单能否放大。适合当“主业修复 + 机器人期权”观察，不能按纯机器人公司给太高预期。([finance.sina.com.cn](https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifkiye5954233.shtml?utm_source=openai))\n\n**东睦股份**  \n这只是四只里基本面最顺的一只。公司主线是粉末压制成形 P&S、金属注射成形 MIM、软磁复合材料 SMC。2025 年营收和利润增长质量不错，经营现金流也大幅改善。MIM 受益于折叠屏铰链、高端消费电子、AI 服务器散热/连接器、机器人精密零部件等方向；SMC 受益光伏、储能、电源、电感等。问题在于股价已经涨过一轮，43 倍 PE 不便宜，后面要靠 2026 半年报继续验证增长。若后续 MIM 增速放缓，估值会压缩。([pdf.dfcfw.com](https://pdf.dfcfw.com/pdf/H3_AP202604221821432223_1.pdf?1776857284000.pdf=&utm_source=openai))\n\n**彤程新材**  \n这是材料股里质地较好的成长股，原本橡胶助剂业务提供现金流，电子化学品是第二增长曲线，包括半导体光刻胶、显示面板光刻胶、CMP 抛光垫、高纯溶剂 EBR 等。2025 年电子化学品业务增长较快，占比提升，国产替代逻辑清晰。问题非常直接：估值接近 95 倍，市场已经把光刻胶国产替代、先进材料放量预期打得很满。它更适合长期跟踪，但新买不宜追高，关键看电子化学品收入占比、毛利率、客户验证和 ArF/KrF 产品放量。([file.finance.sina.com.cn](https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-18/12105211.PDF?utm_source=openai))\n\n**东方锆业**  \n这是周期属性最强的一只。公司做锆系列制品，产品覆盖锆英砂、氯氧化锆、二氧化锆、复合氧化锆、氧化锆陶瓷结构件等。2025 年营收和归母净利下滑，虽然扣非扭亏改善，但盈利体量仍小。近期股价大幅上涨，更多来自锆、铪、新材料、核电、新能源材料等题材共振。公司也在推进新能源电池级氯氧化锆等项目，但从现有利润看，188 亿市值对 5000 多万年利润并不便宜。它可以有交易弹性，但基本面安全垫弱，应收账款上升和周期价格波动要重点警惕。([data.eastmoney.com](https://data.eastmoney.com/stockdata/002167.html?utm_source=openai)) ([orientzr.com](https://www.orientzr.com/?utm_source=openai))\n\n**我的判断**\n\n如果按“中线基本面 + 估值合理性”，我会优先看 **东睦股份、永创智能**；如果按“长期产业空间”，**彤程新材**值得跟踪，但当前价格对业绩兑现要求太高；如果按“短线弹性”，**东方锆业**最强，但也最容易大幅回撤。\n\n简单说：  \n**东睦偏成长兑现，永创偏低估修复加期权，彤程偏高估值优质赛道，东方偏强周期强题材。**"
+        }
+      ],
+      "timestamp": "2026-07-03T03:29:12.961Z"
+    }
+  ],
+  "savedAt": "2026-07-03T03:30:15.670Z"
+}
