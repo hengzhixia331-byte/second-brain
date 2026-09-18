@@ -3,6 +3,7 @@ from datetime import datetime
 import csv
 import json
 import os
+import shutil
 import tempfile
 
 
@@ -96,7 +97,7 @@ for old_value in original_last_open_files:
 
 workspace["lastOpenFiles"] = repaired_last_open_files
 workspace_backup_path = WORKSPACE_PATH.with_suffix(".json.before-refresh")
-WORKSPACE_PATH.replace(workspace_backup_path)
+shutil.copy2(WORKSPACE_PATH, workspace_backup_path)
 with tempfile.NamedTemporaryFile(
     mode="w",
     encoding="utf-8",

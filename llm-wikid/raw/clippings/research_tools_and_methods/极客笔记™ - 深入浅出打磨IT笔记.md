@@ -7,7 +7,7 @@ wikid_category_label: "Research Tools and Methods"
 wikid_category_folder: research_tools_and_methods
 wikid_concept: "[[Research Tools and Methods]]"
 wikid_classification_basis: "matched keywords: 工具, 教程, 平台, method, methods, tutorial, tool"
-wikid_classified_at: "2026-09-18 10:27"
+wikid_classified_at: "2026-09-18 11:04"
 wikid_category_tags: [web-clipper, wikid-raw, research, tools, methods]
 ---
 ## Android Camera 视频课件
@@ -118,7 +118,7 @@ wikid_category_tags: [web-clipper, wikid-raw, research, tools, methods]
 - Category: Research Tools and Methods
 - Concept: [[Research Tools and Methods]]
 - Basis: matched keywords: 工具, 教程, 平台, method, methods, tutorial, tool
-- Classified at: 2026-09-18 10:27
+- Classified at: 2026-09-18 11:04
 - Rule source: [[Web Clipper Classification Rules]]
 
 <!-- wikid-web-clipper-auto-classification:end -->
