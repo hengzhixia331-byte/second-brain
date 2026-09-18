@@ -2,7 +2,7 @@
 title: "从一瓶除草剂到一个基因帝国| 智种全球眼"
 tldr: "从一瓶除草剂到一个基因帝国| 智种全球眼 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzA3Mjg2MzM0MA==&mid=2653353580&idx=1&sn=1c1fc1b80cc41834966bd28b01caed48&chksm=85312eec16aae98f56f0ea8ad4a6755b6da8267d07b9db545e5be451f3f6f2edce585"
 date_created: 2026-07-28
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, career_and_business_ideas, notes]
 source_type: notes

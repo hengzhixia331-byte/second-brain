@@ -2,7 +2,7 @@
 title: "【Nat Genetics】一石三鸟！华中农大严建兵团队发现高产、高蛋白、少施氮肥的“绿色”基因"
 tldr: "公众号名称：iPlants 作者名称： 发布时间：2026-06-29 18:52 ![[llm-wikid/raw/assets/images/e6c7f0702f9f0b01ec77e627553fbd33_MD5.jpg]] ![[llm-wikid/raw/assets/images/07774720accb7c1841424ca23b7465e2_MD5.jpg]] 玉米是我国种植面积最大、产量最高的农作物，也是饲料的绝对主力"
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

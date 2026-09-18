@@ -2,7 +2,7 @@
 title: "植物遗传转化与CRISPR/Cas编辑技术优化：顽拗型玉米转化攻关策略（PhD Thesis）"
 tldr: "植物遗传转化与CRISPR/Cas编辑技术优化：顽拗型玉米转化攻关策略（PhD Thesis） 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0NDc0NjQxMA==&mid=2247491999&idx=2&sn=1d74a8a9bca2adae7646dfc072e69715&chksm=c26d33a8caac8e0b3787fdeff3b228dab1bbd49024"
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_genetic_transformation, article]
 source_type: article

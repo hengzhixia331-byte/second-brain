@@ -2,7 +2,7 @@
 title: "Nat commun | 华中农大熊立仲团队发现一个被意外截短的免疫蛋白，如何让水稻化身“抗旱抗病”双料战士？"
 tldr: "Nat commun | 华中农大熊立仲团队发现一个被意外截短的免疫蛋白，如何让水稻化身“抗旱抗病”双料战士？ 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyMDI3ODU1Mw==&mid=2247504470&idx=1&sn=6f97ca70542bf13f9f5bd871b3e74113&chksm=960bb8e1a803921a4ed8df69fa986295eb"
 date_created: 2026-08-23
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

@@ -2,7 +2,7 @@
 title: "AI从0到1做品牌 by @Cooper说"
 tldr: "AI从0到1做品牌 by @Cooper说 笔记同步助手 来源 [原文链接](https://my.feishu.cn/docx/AYs2dNvtrodL3YxBUxZcq1einId) 正文 AI从0到1做品牌 by @Cooper说 AI从0到1做品牌 by @Cooper说 CupBuddy / 好搭杯 品牌视觉资产设计 SOP 从一个普通杯子，建立完整品牌视觉系统的工作流文档 好大一杯，好搭一天 · 从品牌识别到落地资产的一套完"
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

@@ -2,7 +2,7 @@
 title: "玉米收获后光知道晾晒可不行，想卖个好价钱，你得这样做！"
 tldr: "玉米收获后光知道晾晒可不行，想卖个好价钱，你得这样做！ 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzNDUyODUxMw==&mid=2247507182&idx=1&sn=b8db5292a761d0f9883e653abaa18006&chksm=e989615b245aaf47f6c842cf445bf43b556cc1d316ed934a860b599fbe4baf"
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, notes]
 source_type: notes

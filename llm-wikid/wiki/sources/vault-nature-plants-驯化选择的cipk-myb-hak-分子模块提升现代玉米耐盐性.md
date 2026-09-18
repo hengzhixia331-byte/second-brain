@@ -2,7 +2,7 @@
 title: "Nature plants|驯化选择的CIPK‑MYB‑HAK 分子模块提升现代玉米耐盐性"
 tldr: "Nature plants|驯化选择的CIPK‑MYB‑HAK 分子模块提升现代玉米耐盐性 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg2NTIyMTkxMw==&mid=2247488780&idx=1&sn=3cfb9d464a0cb04e3c77b9f4e9f04882&chksm=cfa3b9b322a60d50897d373636bd577f9ed226d2068f"
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

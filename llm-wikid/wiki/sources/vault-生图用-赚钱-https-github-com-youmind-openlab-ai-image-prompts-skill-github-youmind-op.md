@@ -2,7 +2,7 @@
 title: "GitHub - YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more."
 tldr: "GitHub - YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusio"
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

@@ -2,7 +2,7 @@
 title: "Welcome to MaizeGDB"
 tldr: "Welcome to MaizeGDB! **MaizeGDB is a community-oriented, long-term, federally funded informatics service to researchers focused on the crop plant and model organism Zea mays.** If you use MaizeGDB in your research, pleas"
 date_created: 2026-07-02
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

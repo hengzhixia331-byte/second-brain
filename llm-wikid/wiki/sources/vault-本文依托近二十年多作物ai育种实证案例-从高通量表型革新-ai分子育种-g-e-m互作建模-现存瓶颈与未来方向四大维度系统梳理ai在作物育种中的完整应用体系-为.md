@@ -2,7 +2,7 @@
 title: "Theoretical and Applied Genetics丨AI 赋能植物育种：数字表型与育种方法革新"
 tldr: "Theoretical and Applied Genetics丨AI 赋能植物育种：数字表型与育种方法革新 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzA4NjkzMDgzMw==&mid=2649787241&idx=1&sn=1866627eb8787b0ea2649ccb6f8d3a0f&chksm=86eab81a18f86eb656670692d9d9a65e2b4"
 date_created: 2026-07-06
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, article]
 source_type: article

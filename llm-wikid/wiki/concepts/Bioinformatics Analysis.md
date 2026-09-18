@@ -2,7 +2,7 @@
 title: "Bioinformatics Analysis"
 tldr: "Imported concept hub for 6 existing vault notes."
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: concept
 tags: [bioinformatics, omics, analysis]
 sources: [[[vault-以菌抗旱-中国科学院在-science-旗下期刊发表研究论文-阐明根际微生物与植物激素信号通路互作调控植物抗旱新机制]], [[vault-引言植物生长于复杂且异质的土壤环境中-根系必须完成锚定植株-吸收水分和养分以及应对环境胁迫等多重任务-science-重磅-西北农林团队成果改写教科书-拓展植物]], [[vault-wgcna-基因功能模块网络图及bulk转录组虚拟敲除代码自取]], [[vault-yang-lab]], [[vault-the-plant-journal-发表拜耳与佐治亚大学团队binn框架-嵌入通路先验的稀疏网络-训练整合多组学-推断仅需基因型-玉米数据精度显著优于gblup]], [[vault-微生信-在线绘制主成分分析图-principal-component-analysis-pca]]]

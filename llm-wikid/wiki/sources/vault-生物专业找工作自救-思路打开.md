@@ -1,8 +1,8 @@
 ---
 title: "生物专业找工作自救-思路打开"
 tldr: "--- image_17c3 📅 2026-06-30 09:02:44 ![[llm-wikid/raw/assets/images/a5c77273842c932d8e3c17c60cd80102_MD5.jpg|image_17c39e28fed3be318935da0dca2c2b92.jpg]] --- 08:39 实习僧 !! AppStore 举报 得物食品保健运营实习生 150-200/天 ）上海 5天/周 ①3个月 本"
-date_created: 2026-09-17
-date_modified: 2026-09-17
+date_created: 2026-09-18
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, career_and_business_ideas, notes]
 source_type: notes

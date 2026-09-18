@@ -2,7 +2,7 @@
 title: "RootPheno3D：突破地下根系观测瓶颈，为作物抗逆育种提供精准数据支撑"
 tldr: "RootPheno3D：突破地下根系观测瓶颈，为作物抗逆育种提供精准数据支撑 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247546448&idx=2&sn=d061cc6849a4ff02c586ba8d50e88f5f&chksm=e846169e80aec63141232ad02903ee504a89aff3d37c9e46588"
 date_created: 2026-07-28
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, plant_phenotyping_and_imaging, notes]
 source_type: notes

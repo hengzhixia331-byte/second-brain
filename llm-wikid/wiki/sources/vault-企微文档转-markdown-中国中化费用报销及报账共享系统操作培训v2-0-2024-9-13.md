@@ -2,7 +2,7 @@
 title: "中国中化费用报销及报账共享系统操作培训V2.0-2024.9.13"
 tldr: "中国中化费用报销及报账共享系统操作培训V2.0-2024.9.13 笔记同步助手 来源 [原文链接](https://media30d.clipfx.app/wecom4/2026/09/48111d0604759d24dbd82b0f420e4247884bfabab48b081fe00fb18d5c49b405) 正文 中国中化报销及报账共享 系统操作培训(员工端) 2024年9月 培训概要-员工篇 1、培训对象：需要使用公司费控平"
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, research_tools_and_methods, notes]
 source_type: notes

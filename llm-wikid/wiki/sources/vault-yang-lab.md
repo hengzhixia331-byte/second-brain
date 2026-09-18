@@ -1,8 +1,8 @@
 ---
 title: "Convert MACH dosage data to PLINK binary PED format"
 tldr: "Overview --- About GCTA (Genome-wide Complex Trait Analysis) is a software package initially developed to estimate the proportion of phenotypic variance explained by all genome-wide SNPs for a complex trait but has been "
-date_created: 2026-09-17
-date_modified: 2026-09-17
+date_created: 2026-09-18
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, bioinformatics_analysis, notes]
 source_type: notes

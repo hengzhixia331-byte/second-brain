@@ -2,7 +2,7 @@
 title: "Wiki Index"
 tldr: "Master catalog of imported vault notes organized into LLM Wikid source and concept pages."
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 explored: false
 confidence: medium
 ---
@@ -18,7 +18,7 @@ _Scan TLDRs to find relevant pages. Load full pages only when needed._
 - [[Plant Phenotyping and Imaging]] - 7 imported source cards
 - [[Bioinformatics Analysis]] - 6 imported source cards
 - [[AI for Research]] - 29 imported source cards
-- [[Research Tools and Methods]] - 11 imported source cards
+- [[Research Tools and Methods]] - 12 imported source cards
 - [[Finance and Investment]] - 8 imported source cards
 - [[Life and Health]] - 3 imported source cards
 - [[Career and Business Ideas]] - 5 imported source cards
@@ -148,6 +148,7 @@ _Scan TLDRs to find relevant pages. Load full pages only when needed._
 - [[vault-trends-in-plant-sci-新方向-南京农大与德州理工团队探索植物抗逆的-隐藏密码-染色体外环状dna]] - [[【Trends in Plant Sci】新方向！南京农大与德州理工团队探索植物抗逆的“隐藏密码”：染色体外环状DNA]] (Research Tools and Methods)
 - [[vault-企微文档转-markdown-中国中化费用报销及报账共享系统操作培训v2-0-2024-9-13]] - [[企微文档转 Markdown 中国中化费用报销及报账共享系统操作培训V2.0-2024.9.13]] (Research Tools and Methods)
 - [[vault-中国科学院理化所刘静-饶伟团队iscience-多功能铋基液态金属多孔材料-cell-press对话科学家]] - [[中国科学院理化所刘静-饶伟团队iScience：多功能铋基液态金属多孔材料 - Cell Press对话科学家]] (Research Tools and Methods)
+- [[vault-长期以来-基因进化一直被认为主要由复制和重排机制驱动-然而-每一个进化谱系都包含孤儿基因-这些基因在其他谱系中缺乏同源物-且其进化起源知之甚少-孤儿基因的演化起]] - [[长期以来，基因进化一直被认为主要由复制和重排机制驱动。然而，每一个进化谱系都包含孤儿基因，这些基因在其他谱系中缺乏同源物，且其进化起源知之甚少。 孤儿基因的演化起源]] (Research Tools and Methods)
 - [[vault-张锋最新论文-细胞命运工程平台-筛选出全新转录因子组合-让胚胎干细胞高效重编程为造血干-祖细胞]] - [[张锋最新论文：细胞命运工程平台，筛选出全新转录因子组合，让胚胎干细胞高效重编程为造血干-祖细胞]] (Research Tools and Methods)
 - [[vault-重磅-我国植物领域再发-science]] - [[ 重磅！我国植物领域再发《Science》]] (Research Tools and Methods)
 
@@ -156,7 +157,7 @@ _Scan TLDRs to find relevant pages. Load full pages only when needed._
 - No duplicate note names detected among imported notes.
 
 ### Skipped notes
-See [[Vault Import Report]] and `result/2026-09-17_vault_note_inventory.csv`.
+See [[Vault Import Report]] and `result/2026-09-18_vault_note_inventory.csv`.
 
 ## Recommended Next Actions
 - Review plant-science hubs first: [[Maize Genetic Transformation]], [[Plant Stress Resilience]], [[Maize Yield and Breeding]], [[Plant Phenotyping and Imaging]], and [[Bioinformatics Analysis]].

@@ -2,7 +2,7 @@
 title: "第48期：12.2 已知致病突变的基因分型"
 tldr: "第48期：12.2 已知致病突变的基因分型 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzkxNTI5MzI0MA==&mid=2247484898&idx=1&sn=d2c6986dbb3e035ef96d818788ac9d42&chksm=c0b01227fd15276d2a7e59529f0252005258431d9bf756986afd5330f6e1aa6d1d01"
 date_created: 2026-07-28
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, life_and_health, notes]
 source_type: notes

@@ -2,7 +2,7 @@
 title: "热激+UBA 双协同，一步直接改良优良玉米自交系，大幅缩短育种周期"
 tldr: "热激+UBA 双协同，一步直接改良优良玉米自交系，大幅缩短育种周期 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0NDc0NjQxMA==&mid=2247492331&idx=1&sn=51a5ad7cd2d922f54fb7c8f6c1d9e668&chksm=c2fca60903ad3ad3c1d5629cd26e65f7f57153a63891d2454287f612"
 date_created: 2026-07-13
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, notes]
 source_type: notes

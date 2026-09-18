@@ -2,7 +2,7 @@
 title: "一根玉米穗，为何会长成22种“怪样子”？|智种快讯"
 tldr: "一根玉米穗，为何会长成22种“怪样子”？|智种快讯 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzA3Mjg2MzM0MA==&mid=2653354600&idx=1&sn=99899693a14612a24a497098b6e7c69f&chksm=8553a38a0508c59db8dbbaf8d27d5ddd6b5108d4bad9d74d10541efc754061c0"
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, notes]
 source_type: notes

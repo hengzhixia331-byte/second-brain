@@ -2,7 +2,7 @@
 title: "这个封装了我3年自媒体经验的AI热点网站，今天向所有人免费开放。"
 tldr: "这个封装了我3年自媒体经验的AI热点网站，今天向所有人免费开放。 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647682019&idx=1&sn=13723968587c20aa81d71ed8c3b52fae&chksm=f13b89a4e097bd769c72b220a043f2ad67f8b5fb6b55e2f089b3d1bfc"
 date_created: 2026-07-02
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

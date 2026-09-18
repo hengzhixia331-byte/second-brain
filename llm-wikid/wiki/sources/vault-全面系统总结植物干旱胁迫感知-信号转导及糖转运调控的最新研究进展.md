@@ -2,7 +2,7 @@
 title: "全面系统总结植物干旱胁迫感知、信号转导及糖转运调控的最新研究进展"
 tldr: "全面系统总结植物干旱胁迫感知、信号转导及糖转运调控的最新研究进展 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyOTY2NDYyNQ==&mid=2247637996&idx=1&sn=44eb0dbc0f6baa3bad7d2ec72ceae170&chksm=e9eda71eb0a026ed6aff4a3e0a4757947bb04df1fde8a20e6ec9ebe42"
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

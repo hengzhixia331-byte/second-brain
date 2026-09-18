@@ -2,7 +2,7 @@
 title: "针灸的科学机制首次被拍下！清华与华科团队打造AI介观显微镜，1次实验抵过去100次"
 tldr: "针灸的科学机制首次被拍下！清华与华科团队打造AI介观显微镜，1次实验抵过去100次 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649800899&idx=1&sn=354a2b5b558cdfa4e0febe936f682df2&chksm=8666afd1ee59b67473e58c92347958d967cefb15c42cd42e"
 date_created: 2026-07-28
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, article]
 source_type: article

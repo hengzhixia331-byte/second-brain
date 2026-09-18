@@ -2,7 +2,7 @@
 title: "2026.7.5  王超  一个不太懂AI的育种家如何理解AI在育种研发中的作用及自身的角色调整（南北学院）"
 tldr: "2026.7.5  王超  一个不太懂AI的育种家如何理解AI在育种研发中的作用及自身的角色调整（南北学院） 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzkzODExMjczNQ==&mid=2247495256&idx=1&sn=82ea2351ae4f4f250c45b7f102a557e0&chksm=c32558aa1af5dee6dafb2290f423825ef2e"
 date_created: 2026-07-06
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, notes]
 source_type: notes

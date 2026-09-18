@@ -2,7 +2,7 @@
 title: "1959年的技术，为什么成了AI育种基础设施？- 种业新说"
 tldr: "公众号名称：智种网NOVOSEED 作者名称：智种编辑部 发布时间：2026-06-18 17:55 ![[llm-wikid/raw/assets/images/a3d181f3d0c437b46ef39cf247677683_MD5.gif]] ![[llm-wikid/raw/assets/images/b091146685ae544da04a65abd0afdad8_MD5.gif| ![]] ](https://mp.weix"
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, notes]
 source_type: notes

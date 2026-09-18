@@ -2,7 +2,7 @@
 title: "26甘肃夏播花期记录电子表 XHZ 1069-1210"
 tldr: "26甘肃夏播花期记录电子表 XHZ 1069-1210 笔记同步助手 来源 [原文链接](https://media30d.clipfx.app/wecom4/2026/07/dce3e1f5a3634018f15c604c40b30c71e5bbadf897d431fb060809a442d80b7e) 正文 | 行号              |   抽雄 |   吐丝 |   散粉 |   株高 |   穗位高 | CAS9   "
 date_created: 2026-08-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_genetic_transformation, notes]
 source_type: notes

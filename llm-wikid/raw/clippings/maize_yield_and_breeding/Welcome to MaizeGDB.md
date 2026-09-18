@@ -14,7 +14,7 @@ wikid_category_label: "Maize Yield and Breeding"
 wikid_category_folder: maize_yield_and_breeding
 wikid_concept: "[[Maize Yield and Breeding]]"
 wikid_classification_basis: "matched keywords: maize, corn, breeding, yield, grain"
-wikid_classified_at: "2026-09-17 14:49"
+wikid_classified_at: "2026-09-18 10:27"
 wikid_category_tags: [web-clipper, wikid-raw, plant-science, maize, breeding, yield]
 ---
 ## Welcome to MaizeGDB!
@@ -86,7 +86,7 @@ Next update: July 7, 2026
 - Category: Maize Yield and Breeding
 - Concept: [[Maize Yield and Breeding]]
 - Basis: matched keywords: maize, corn, breeding, yield, grain
-- Classified at: 2026-09-17 14:49
+- Classified at: 2026-09-18 10:27
 - Rule source: [[Web Clipper Classification Rules]]
 
 <!-- wikid-web-clipper-auto-classification:end -->

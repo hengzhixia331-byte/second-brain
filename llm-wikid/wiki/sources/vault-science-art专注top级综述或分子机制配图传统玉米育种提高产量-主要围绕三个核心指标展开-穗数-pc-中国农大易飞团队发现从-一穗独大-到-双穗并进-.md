@@ -2,7 +2,7 @@
 title: "PC | 中国农大易飞团队发现从“一穗独大”到“双穗并进”：激素重编程如何突破玉米高密增产的“天花板”"
 tldr: "PC | 中国农大易飞团队发现从“一穗独大”到“双穗并进”：激素重编程如何突破玉米高密增产的“天花板” 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyMDI3ODU1Mw==&mid=2247504681&idx=3&sn=aaa58b421d560ba23bdbd9f17acd613f&chksm=9669d2f53dfe1116ad7ea7c2cbecaa3b1bfa38"
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

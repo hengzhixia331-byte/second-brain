@@ -2,7 +2,7 @@
 title: "Qiaomu Artist Style 即刻复制图片转风格提示词"
 tldr: "Qiaomu Artist Style 即刻复制图片转风格提示词 笔记同步助手 来源 [原文链接](https://my.feishu.cn/docx/YoexdpEWNoTXZtxIhxAc9BIGnkb) 正文 Qiaomu Artist Style 即刻复制图片转风格提示词 Qiaomu Artist Style 即刻复制图片转风格提示词 Qiaomu Artist Style 即刻复制图片转风格提示词 用途：上传任意图片，复制对"
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

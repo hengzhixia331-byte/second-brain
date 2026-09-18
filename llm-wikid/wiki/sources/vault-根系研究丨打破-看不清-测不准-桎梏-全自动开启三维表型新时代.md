@@ -2,7 +2,7 @@
 title: "根系研究丨打破“看不清、测不准”桎梏，全自动开启三维表型新时代"
 tldr: "根系研究丨打破“看不清、测不准”桎梏，全自动开启三维表型新时代 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjg5ODI1Ng==&mid=2247545997&idx=2&sn=2c9cbd97e9e9f95102658110b138a3be&chksm=e8b9208711ae11a0ec30a615d873fd53b57e6fc4c4879d889a4814b9c2"
 date_created: 2026-07-03
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, plant_phenotyping_and_imaging, notes]
 source_type: notes

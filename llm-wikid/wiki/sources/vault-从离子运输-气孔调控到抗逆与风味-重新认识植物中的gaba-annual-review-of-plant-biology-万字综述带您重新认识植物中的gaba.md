@@ -2,7 +2,7 @@
 title: "Annual Review of Plant Biology｜万字综述带您重新认识植物中的GABA"
 tldr: "Annual Review of Plant Biology｜万字综述带您重新认识植物中的GABA 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzYzNTg5MzIxMQ==&mid=2247489980&idx=1&sn=7c2c3eae9ffc71e5be646cc84fea64f1&chksm=f1a2d9e68c5c782bcd7a1304bd3355039657745b"
 date_created: 2026-08-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

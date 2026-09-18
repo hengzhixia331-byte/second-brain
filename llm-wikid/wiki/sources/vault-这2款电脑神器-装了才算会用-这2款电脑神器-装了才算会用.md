@@ -2,7 +2,7 @@
 title: "这2款电脑神器，装了才算会用"
 tldr: "这2款电脑神器，装了才算会用 笔记同步助手 来源 [原文链接](https://www.xiaohongshu.com/discovery/item/6a858608000000002201542c?app_platform=android&ignoreEngage=true&app_version=9.43.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&"
 date_created: 2026-08-23
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

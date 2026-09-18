@@ -2,7 +2,7 @@
 title: "Plant Com | 天津农学院/中国农业大学金危危团队发现玉米ZmPAR1可诱导卵细胞孤雌生殖与单倍体形成"
 tldr: "Plant Com | 天津农学院/中国农业大学金危危团队发现玉米ZmPAR1可诱导卵细胞孤雌生殖与单倍体形成 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247613276&idx=3&sn=29e2816150e38508a5c3685a42846244&chksm=cfcab628c8ebd108f79d3aeea0186f42b2"
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_genetic_transformation, article]
 source_type: article

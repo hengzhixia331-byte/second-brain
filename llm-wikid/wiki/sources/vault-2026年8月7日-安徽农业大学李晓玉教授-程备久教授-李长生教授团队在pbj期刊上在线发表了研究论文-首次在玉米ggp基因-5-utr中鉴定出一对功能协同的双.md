@@ -2,7 +2,7 @@
 title: "[精读]PBJ || 安徽农业大学团队：双uORF天然变异+CRISPR编辑协同增效，成功创制出高Vc、高蛋白优异种质，破解玉米产量-品质权衡难题"
 tldr: "[精读]PBJ || 安徽农业大学团队：双uORF天然变异+CRISPR编辑协同增效，成功创制出高Vc、高蛋白优异种质，破解玉米产量-品质权衡难题 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0NDc0NjQxMA==&mid=2247494223&idx=1&sn=52cd4c93c2ca9641e14e0acd785524d4&chksm=c2b7a257ff7fe4c0"
 date_created: 2026-08-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

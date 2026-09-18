@@ -1,7 +1,7 @@
 ---
 title: "Web Clipper Classification Rules"
-date_created: 2026-09-17
-date_modified: 2026-09-17
+date_created: 2026-09-18
+date_modified: 2026-09-18
 type: sop
 tags: [web-clipper, wikid-raw, classification]
 wikid_system_note: true

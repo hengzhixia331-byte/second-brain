@@ -2,7 +2,7 @@
 title: "十年前端三天的活被codex 3分钟干完了，天塌了 #ai #我在抖音聊科技 #当我开始使用codex #vibecoding #vibecoding大赏"
 tldr: "十年前端三天的活被codex 3分钟干完了，天塌了 #ai #我在抖音聊科技 #当我开始使用codex #vibecoding #vibecoding大赏 作者: idol ![[llm-wikid/raw/assets/images/a2556c9bd6de57d47c354ebda9019aa3_MD5.jpg|视频截图]] 视频截图 ![[llm-wikid/raw/assets/images/91c80ee703a4a51ffe"
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

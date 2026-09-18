@@ -2,7 +2,7 @@
 title: "Life and Health"
 tldr: "Imported concept hub for 3 existing vault notes."
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: concept
 tags: [life, health]
 sources: [[[vault-从-知道病因-到-检测患者-我们如何用pcr确定谁携带致病突变-在上一期中-我们学习了基因组中各种各样的dna变异-第48期-12-2-已知致病突变的基因分型]], [[vault-朱健康院士等综述植物非生物胁迫信号转导-nature综述-朱健康院士等综述植物非生物胁迫信号转导-为培育抗逆作物提供思路-全文翻译-值得收藏]], [[vault-周四提醒小宝打疫苗-乙肝疫苗接下来怎么接种-你想了解的都在这了]]]

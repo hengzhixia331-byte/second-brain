@@ -2,7 +2,7 @@
 title: "Nature Methods：杨建华-李斌-陈建军-屈良鹄合作开发新算法，构建RNA互作组百科全书"
 tldr: "公众号名称：生物世界 作者名称：生物世界 发布时间：2026-05-29 12:12 原文链接：[https://www.nature.com/articles/s41592-026-03105-x](https://www.nature.com/articles/s41592-026-03105-x) ![[llm-wikid/raw/assets/images/1577a09cbcc000eb7116f4ebac3f3e82_MD5"
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, research_tools_and_methods, article]
 source_type: article

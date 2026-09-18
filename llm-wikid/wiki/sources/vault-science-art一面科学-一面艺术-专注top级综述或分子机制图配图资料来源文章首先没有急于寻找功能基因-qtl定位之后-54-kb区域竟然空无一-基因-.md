@@ -2,7 +2,7 @@
 title: "QTL定位之后，54 kb区域竟然空无一“基因”，是我的话，崩溃了！中国农大却发表了Cell！"
 tldr: "QTL定位之后，54 kb区域竟然空无一“基因”，是我的话，崩溃了！中国农大却发表了Cell！ 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyMDI3ODU1Mw==&mid=2247503963&idx=1&sn=b273fd7409ba1d629fa11df7af0a8ae3&chksm=96bdb08892156e523bb753d57245bb397b11f7a36a"
 date_created: 2026-08-17
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article

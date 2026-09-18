@@ -2,7 +2,7 @@
 title: "中国科学院理化所刘静-饶伟团队iScience：多功能铋基液态金属多孔材料 - Cell Press对话科学家"
 tldr: "公众号名称：CellPress全科学 作者名称：Cell Press 发布时间：2026-06-27 11:00 原文链接：[https://www.sciencedirect.com/science/article/pii/S2589004226014033](https://www.sciencedirect.com/science/article/pii/S2589004226014033) ![[llm-wikid/raw/as"
 date_created: 2026-07-01
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, research_tools_and_methods, article]
 source_type: article

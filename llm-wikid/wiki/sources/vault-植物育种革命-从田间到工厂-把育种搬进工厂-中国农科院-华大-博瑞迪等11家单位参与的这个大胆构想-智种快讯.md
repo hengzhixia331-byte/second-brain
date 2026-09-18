@@ -2,7 +2,7 @@
 title: "把育种搬进工厂？中国农科院、华大、博瑞迪等11家单位参与的这个大胆构想|智种快讯"
 tldr: "把育种搬进工厂？中国农科院、华大、博瑞迪等11家单位参与的这个大胆构想|智种快讯 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzA3Mjg2MzM0MA==&mid=2653353580&idx=2&sn=d411b2cdae450dedc26bb18d20551c1f&chksm=85d85f5750e569bcb669aed3b2e4c2509d66face864ab9ac9"
 date_created: 2026-07-28
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, ai_for_research, notes]
 source_type: notes

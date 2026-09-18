@@ -2,7 +2,7 @@
 title: "芳樟醇连接玉米地上交流与地下防御 | Science揭示密植玉米的植物—土壤防御反馈"
 tldr: "芳樟醇连接玉米地上交流与地下防御 | Science揭示密植玉米的植物—土壤防御反馈 笔记同步助手 来源 [原文链接](https://mp.weixin.qq.com/s?__biz=MzYzNTg5MzIxMQ==&mid=2247489281&idx=1&sn=d46a30ce425912865ba3efee8799f4ba&chksm=f18ab40cec5b99f742a4bdba7430074b41803e24b6323de"
 date_created: 2026-07-28
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 type: source
 tags: [vault-import, maize_yield_and_breeding, article]
 source_type: article
