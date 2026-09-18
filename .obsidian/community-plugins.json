@@ -4,7 +4,6 @@
   "obsidian-git",
   "obsidian-image-auto-upload-plugin",
   "obsidian-image-toolkit",
-  "wechat-messenger",
   "calendar",
   "buttons",
   "omnisearch",
@@ -12,5 +11,7 @@
   "tag-wrangler",
   "obsidian42-brat",
   "obsidian-banners",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "wechat-note-helper",
+  "obsidian-local-images-plus"
 ]
