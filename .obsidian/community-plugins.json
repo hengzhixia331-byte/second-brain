@@ -2,8 +2,6 @@
   "agent-client",
   "terrain-graph",
   "obsidian-git",
-  "obsidian-image-auto-upload-plugin",
-  "obsidian-image-toolkit",
   "calendar",
   "buttons",
   "omnisearch",
@@ -13,5 +11,6 @@
   "obsidian-banners",
   "obsidian-shellcommands",
   "wechat-note-helper",
-  "obsidian-local-images-plus"
+  "obsidian-local-images-plus",
+  "obsidian-image-auto-upload-plugin"
 ]

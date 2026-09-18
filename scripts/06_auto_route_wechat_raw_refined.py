@@ -1,6 +1,7 @@
 from pathlib import Path
 from datetime import datetime
 import csv
+import json
 import shutil
 
 
@@ -10,12 +11,25 @@ import shutil
 VAULT_ROOT = Path(r"E:\5-newplanet\new planet")
 RAW_ROOT = VAULT_ROOT / "llm-wikid" / "raw"
 RESULT_ROOT = VAULT_ROOT / "result"
+WORKSPACE_PATH = VAULT_ROOT / ".obsidian" / "workspace.json"
 
 RUN_TAG = datetime.now().strftime("%Y-%m-%d")
 
 SKIP_TOP_DIRS = {"assets", "x-archive"}
 CANONICAL_TOP_DIRS = {"articles", "bookmarks", "ideas", "papers", "clippings"}
 CANONICAL_INBOX_DIRS = {"articles", "bookmarks", "ideas"}
+
+
+def normalized_path(path):
+    return str(path).replace("\\", "/")
+
+
+workspace = json.loads(WORKSPACE_PATH.read_text(encoding="utf-8"))
+open_note_paths = {
+    normalized_path(value)
+    for value in workspace.get("lastOpenFiles", [])
+    if isinstance(value, str)
+}
 
 # 强规则：命中后直接路由到对应叶子
 ROUTE_RULES = [
@@ -367,6 +381,19 @@ for source_path in all_md_files:
     if first_dir in SKIP_TOP_DIRS:
         continue
 
+    source_relative = normalized_path(source_path.relative_to(VAULT_ROOT))
+    if source_relative in open_note_paths:
+        kept_count += 1
+        moved_rows.append({
+            "source_path": source_relative,
+            "target_path": source_relative,
+            "rule_name": "skip_open_note",
+            "route_mode": "deferred",
+            "source_kind": "open_note",
+            "body_length": source_path.stat().st_size,
+        })
+        continue
+
     text = source_path.read_text(encoding="utf-8")
     haystack, body = build_haystack(source_path.relative_to(RAW_ROOT), text)
     route_text = routing_haystack(source_path.relative_to(RAW_ROOT), text)
@@ -383,8 +410,8 @@ for source_path in all_md_files:
     remove_empty_parents(source_path.parent)
 
     moved_rows.append({
-        "source_path": str(source_path.relative_to(VAULT_ROOT)),
-        "target_path": str(target_path.relative_to(VAULT_ROOT)),
+        "source_path": source_relative,
+        "target_path": normalized_path(target_path.relative_to(VAULT_ROOT)),
         "rule_name": rule_name,
         "route_mode": route_mode,
         "source_kind": infer_kind(relative_parts, haystack, len(body)),

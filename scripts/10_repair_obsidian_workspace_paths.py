@@ -2,6 +2,8 @@ from pathlib import Path
 from datetime import datetime
 import csv
 import json
+import os
+import tempfile
 
 
 # =========================
@@ -93,7 +95,19 @@ for old_value in original_last_open_files:
     })
 
 workspace["lastOpenFiles"] = repaired_last_open_files
-WORKSPACE_PATH.write_text(json.dumps(workspace, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+workspace_backup_path = WORKSPACE_PATH.with_suffix(".json.before-refresh")
+WORKSPACE_PATH.replace(workspace_backup_path)
+with tempfile.NamedTemporaryFile(
+    mode="w",
+    encoding="utf-8",
+    dir=WORKSPACE_PATH.parent,
+    prefix="workspace.",
+    suffix=".tmp",
+    delete=False,
+) as handle:
+    handle.write(json.dumps(workspace, ensure_ascii=False, indent=2) + "\n")
+    temporary_workspace_path = Path(handle.name)
+os.replace(temporary_workspace_path, WORKSPACE_PATH)
 
 manifest_path = RESULT_ROOT / f"{RUN_TAG}_obsidian_workspace_path_repair_manifest.csv"
 with manifest_path.open("w", encoding="utf-8-sig", newline="") as handle:
@@ -108,4 +122,5 @@ print(f"Workspace lastOpenFiles before: {len(original_last_open_files)}")
 print(f"Workspace lastOpenFiles after: {len(repaired_last_open_files)}")
 print(f"Replaced stale paths: {replaced_count}")
 print(f"Removed stale paths: {removed_count}")
+print(f"Workspace backup: {workspace_backup_path.relative_to(VAULT_ROOT)}")
 print(f"Manifest: {manifest_path.relative_to(VAULT_ROOT)}")

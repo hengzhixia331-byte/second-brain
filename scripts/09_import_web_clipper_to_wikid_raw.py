@@ -1,6 +1,7 @@
 from pathlib import Path
 from datetime import datetime
 import csv
+import json
 import shutil
 
 
@@ -11,6 +12,7 @@ VAULT_ROOT = Path(r"E:\5-newplanet\new planet")
 WEB_CLIPPER_INBOX = VAULT_ROOT / "Clippings"
 WIKID_CLIPPINGS = VAULT_ROOT / "llm-wikid" / "raw" / "clippings"
 RESULT_ROOT = VAULT_ROOT / "result"
+WORKSPACE_PATH = VAULT_ROOT / ".obsidian" / "workspace.json"
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 NOW = datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -169,6 +171,18 @@ WIKID_FIELD_PREFIXES = [
 
 AUTO_BLOCK_START = "<!-- wikid-web-clipper-auto-classification:start -->"
 AUTO_BLOCK_END = "<!-- wikid-web-clipper-auto-classification:end -->"
+
+
+def normalized_path(path):
+    return str(path).replace("\\", "/")
+
+
+workspace = json.loads(WORKSPACE_PATH.read_text(encoding="utf-8"))
+open_note_paths = {
+    normalized_path(value)
+    for value in workspace.get("lastOpenFiles", [])
+    if isinstance(value, str)
+}
 
 
 # =========================
@@ -349,7 +363,12 @@ RESULT_ROOT.mkdir(parents=True, exist_ok=True)
 write_classification_rules()
 
 imported_paths = {}
+deferred_open_imports = []
 for source_path in sorted(WEB_CLIPPER_INBOX.glob("*.md")):
+    source_relative = normalized_path(source_path.relative_to(VAULT_ROOT))
+    if source_relative in open_note_paths:
+        deferred_open_imports.append(source_relative)
+        continue
     target_path = unique_path(WIKID_CLIPPINGS / source_path.name)
     shutil.move(str(source_path), str(target_path))
     imported_paths[target_path] = source_path
@@ -368,6 +387,10 @@ for source_path in clip_paths:
 
     category_dir = WIKID_CLIPPINGS / rule["folder"]
     target_path = category_dir / source_path.name
+    source_relative = normalized_path(source_path.relative_to(VAULT_ROOT))
+    is_open_note = source_relative in open_note_paths
+    if is_open_note:
+        target_path = source_path
     if target_path != source_path:
         target_path = unique_path(target_path)
 
@@ -379,6 +402,8 @@ for source_path in clip_paths:
         shutil.move(str(source_path), str(target_path))
         remove_empty_category_parents(source_path.parent)
         action = "moved_to_category"
+    elif is_open_note:
+        action = "deferred_open_note"
 
     original_path = imported_paths.get(source_path, source_path)
     manifest_rows.append({
@@ -411,6 +436,7 @@ with manifest_path.open("w", encoding="utf-8-sig", newline="") as handle:
 
 moved_count = len([row for row in manifest_rows if row["action"] == "moved_to_category"])
 print(f"Imported from root Clippings: {len(imported_paths)}")
+print(f"Deferred open root clippings: {len(deferred_open_imports)}")
 print(f"Classified web clippings: {len(manifest_rows)}")
 print(f"Moved into category folders: {moved_count}")
 print(f"Criteria note: llm-wikid/raw/clippings/{CRITERIA_NOTE_NAME}")
