@@ -60,9 +60,9 @@ CRISPR在拟南芥、水稻等植物中已经相当成熟，但到了柑橘、�
 
 **能不能提高马铃薯植株再生？**
 
-![|170](https://relay-1.bijitongbu.site/p/ce3ad5b48dc7ed7d3ab8405cf1cc802f.png)
+![[result/2026-09-18_crispr_combo_missing_section_icon.png|170]]
 
-![](https://relay-1.bijitongbu.site/p/e3e324a2b3dd5351be7a807b0f0ebff5.png)
+![[result/2026-09-18_crispr_combo_missing_regeneration_figure.png]]
 
 毛状根筛选只是第一步，真正用于基因编辑育种，还要看这些候选基因能否提高稳定遗传转化过程中的芽再生效率。
 
